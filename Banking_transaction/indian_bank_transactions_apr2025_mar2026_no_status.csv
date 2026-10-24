@@ -1,0 +1,1001 @@
+﻿transaction_id,customer_id,customer_name,bank_name,transaction_date,transaction_type,channel,debit_amount_inr,credit_amount_inr,balance_inr
+IB2025000395,CUST0177,Vikram Iyer,Indian Bank (synthetic project data),2025-04-01,Utility Bill,ATM,0.0,25954.06,437337.26
+IB2025000061,CUST0202,Surya Prakash,Indian Bank (synthetic project data),2025-04-01,Mobile Recharge,Internet Banking,5373.04,0.0,161802.37
+IB2025000300,CUST0012,Sneha Joshi,Indian Bank (synthetic project data),2025-04-02,Shopping Payment,Internet Banking,0.0,34909.52,32816.2
+IB2025000391,CUST0024,Manoj Verma,Indian Bank (synthetic project data),2025-04-02,Shopping Payment,UPI,0.0,50906.46,398043.29
+IB2025000469,CUST0170,Ishita Roy,Indian Bank (synthetic project data),2025-04-02,IMPS Transfer,ATM,7469.55,0.0,49396.46
+IB2025000628,CUST0121,Ishita Roy,Indian Bank (synthetic project data),2025-04-03,Interest Credit,UPI,0.0,49483.7,32976.15
+IB2025000370,CUST0193,Rohan Patel,Indian Bank (synthetic project data),2025-04-03,Mobile Recharge,UPI,0.0,12744.18,399951.68
+IB2025000819,CUST0061,Aditya Bose,Indian Bank (synthetic project data),2025-04-04,Utility Bill,IMPS,21193.08,0.0,463355.66
+IB2025000866,CUST0167,Surya Prakash,Indian Bank (synthetic project data),2025-04-04,Utility Bill,IMPS,2365.16,0.0,347058.26
+IB2025000607,CUST0043,Kavya Rao,Indian Bank (synthetic project data),2025-04-04,ATM Withdrawal,Branch,3603.36,0.0,322095.02
+IB2025000498,CUST0216,Nithya Krishnan,Indian Bank (synthetic project data),2025-04-04,Cash Deposit,Internet Banking,16609.53,0.0,297292.5
+IB2025000731,CUST0170,Nithya Krishnan,Indian Bank (synthetic project data),2025-04-05,ATM Withdrawal,UPI,16560.26,0.0,146955.29
+IB2025000687,CUST0177,Pooja Shah,Indian Bank (synthetic project data),2025-04-05,Mobile Recharge,ATM,0.0,35074.08,186327.93
+IB2025000424,CUST0201,Divya Menon,Indian Bank (synthetic project data),2025-04-05,Mobile Recharge,ATM,7396.14,0.0,232499.42
+IB2025000649,CUST0149,Ananya Singh,Indian Bank (synthetic project data),2025-04-05,Shopping Payment,NEFT,5387.2,0.0,306776.27
+IB2025000415,CUST0134,Aditya Bose,Indian Bank (synthetic project data),2025-04-06,Utility Bill,ATM,23832.45,0.0,186562.85
+IB2025000816,CUST0185,Pooja Shah,Indian Bank (synthetic project data),2025-04-06,Interest Credit,ATM,540.34,0.0,43247.06
+IB2025000291,CUST0061,Priya Kumar,Indian Bank (synthetic project data),2025-04-06,ATM Withdrawal,IMPS,9084.87,0.0,154096.36
+IB2025000940,CUST0236,Ishita Roy,Indian Bank (synthetic project data),2025-04-06,NEFT Transfer,Branch,0.0,47051.06,450686.26
+IB2025000087,CUST0028,Sneha Joshi,Indian Bank (synthetic project data),2025-04-07,Shopping Payment,Internet Banking,0.0,49428.69,445895.93
+IB2025000409,CUST0016,Karthik Raj,Indian Bank (synthetic project data),2025-04-08,Cash Deposit,NEFT,1139.7,0.0,314656.78
+IB2025000943,CUST0247,Divya Menon,Indian Bank (synthetic project data),2025-04-08,Salary Credit,Branch,17937.92,0.0,3160.14
+IB2025000130,CUST0168,Vikram Iyer,Indian Bank (synthetic project data),2025-04-08,ATM Withdrawal,IMPS,0.0,24893.73,390981.12
+IB2025000318,CUST0190,Ananya Singh,Indian Bank (synthetic project data),2025-04-08,IMPS Transfer,ATM,4872.09,0.0,348117.52
+IB2025000307,CUST0153,Priya Kumar,Indian Bank (synthetic project data),2025-04-09,IMPS Transfer,Branch,1822.18,0.0,336339.79
+IB2025000927,CUST0015,Vikram Iyer,Indian Bank (synthetic project data),2025-04-09,Shopping Payment,IMPS,0.0,10189.41,439280.31
+IB2025000185,CUST0081,Surya Prakash,Indian Bank (synthetic project data),2025-04-10,Interest Credit,Branch,2084.89,0.0,202807.02
+IB2025000695,CUST0159,Kavya Rao,Indian Bank (synthetic project data),2025-04-10,Shopping Payment,Internet Banking,9197.27,0.0,32607.54
+IB2025000967,CUST0169,Sneha Joshi,Indian Bank (synthetic project data),2025-04-11,Mobile Recharge,Branch,1078.83,0.0,450803.51
+IB2025000074,CUST0098,Pooja Shah,Indian Bank (synthetic project data),2025-04-11,UPI Payment,NEFT,0.0,46052.88,150007.71
+IB2025000610,CUST0152,Meera Nair,Indian Bank (synthetic project data),2025-04-12,Salary Credit,Internet Banking,3327.95,0.0,256808.77
+IB2025000909,CUST0038,Manoj Verma,Indian Bank (synthetic project data),2025-04-13,Shopping Payment,ATM,12560.51,0.0,3142.86
+IB2025000840,CUST0153,Arjun Reddy,Indian Bank (synthetic project data),2025-04-13,Mobile Recharge,Internet Banking,1563.52,0.0,61773.28
+IB2025000364,CUST0236,Rohan Patel,Indian Bank (synthetic project data),2025-04-13,ATM Withdrawal,Internet Banking,7491.49,0.0,71695.91
+IB2025000003,CUST0180,Lakshmi Pillai,Indian Bank (synthetic project data),2025-04-14,Interest Credit,ATM,17943.09,0.0,225155.31
+IB2025000745,CUST0123,Vikram Iyer,Indian Bank (synthetic project data),2025-04-14,Cash Deposit,Branch,17250.31,0.0,234912.99
+IB2025000175,CUST0178,Rahul Das,Indian Bank (synthetic project data),2025-04-14,UPI Payment,ATM,16497.11,0.0,137361.92
+IB2025000084,CUST0233,Karthik Raj,Indian Bank (synthetic project data),2025-04-14,Interest Credit,Internet Banking,0.0,34759.91,99966.56
+IB2025000874,CUST0230,Kavya Rao,Indian Bank (synthetic project data),2025-04-15,IMPS Transfer,Branch,3034.22,0.0,290301.13
+IB2025000982,CUST0169,Lakshmi Pillai,Indian Bank (synthetic project data),2025-04-15,Salary Credit,Internet Banking,20117.92,0.0,426407.99
+IB2025000120,CUST0062,Meera Nair,Indian Bank (synthetic project data),2025-04-15,Utility Bill,Branch,0.0,36727.86,7823.56
+IB2025000562,CUST0158,Lakshmi Pillai,Indian Bank (synthetic project data),2025-04-17,NEFT Transfer,Internet Banking,11396.97,0.0,323912.6
+IB2025000337,CUST0005,Arjun Reddy,Indian Bank (synthetic project data),2025-04-17,Mobile Recharge,ATM,21283.13,0.0,376374.98
+IB2025000747,CUST0237,Rahul Das,Indian Bank (synthetic project data),2025-04-17,Interest Credit,ATM,24225.05,0.0,371440.96
+IB2025000959,CUST0031,Karthik Raj,Indian Bank (synthetic project data),2025-04-17,IMPS Transfer,NEFT,0.0,52867.48,426584.27
+IB2025000995,CUST0200,Pooja Shah,Indian Bank (synthetic project data),2025-04-18,IMPS Transfer,Internet Banking,2140.35,0.0,207067.7
+IB2025000683,CUST0025,Aditya Bose,Indian Bank (synthetic project data),2025-04-18,NEFT Transfer,IMPS,18422.77,0.0,195172.36
+IB2025000464,CUST0244,Ananya Singh,Indian Bank (synthetic project data),2025-04-18,ATM Withdrawal,NEFT,8070.12,0.0,85882.5
+IB2025000503,CUST0209,Arjun Reddy,Indian Bank (synthetic project data),2025-04-19,Shopping Payment,Internet Banking,24869.63,0.0,356971.28
+IB2025000228,CUST0092,Priya Kumar,Indian Bank (synthetic project data),2025-04-19,Shopping Payment,NEFT,0.0,11870.65,63113.03
+IB2025000207,CUST0159,Vikram Iyer,Indian Bank (synthetic project data),2025-04-20,Mobile Recharge,IMPS,0.0,52645.37,77972.13
+IB2025000715,CUST0021,Priya Kumar,Indian Bank (synthetic project data),2025-04-20,Shopping Payment,NEFT,0.0,34788.88,440016.46
+IB2025000514,CUST0244,Aarav Sharma,Indian Bank (synthetic project data),2025-04-20,Shopping Payment,Branch,18306.88,0.0,96097.78
+IB2025000712,CUST0068,Nithya Krishnan,Indian Bank (synthetic project data),2025-04-20,Mobile Recharge,ATM,4029.26,0.0,117264.08
+IB2025000848,CUST0180,Sanjay Gupta,Indian Bank (synthetic project data),2025-04-20,Interest Credit,Branch,0.0,16352.97,2848.17
+IB2025000520,CUST0198,Lakshmi Pillai,Indian Bank (synthetic project data),2025-04-20,Mobile Recharge,UPI,16061.98,0.0,297368.11
+IB2025000451,CUST0057,Aarav Sharma,Indian Bank (synthetic project data),2025-04-20,Cash Deposit,IMPS,5930.69,0.0,1341.06
+IB2025000574,CUST0235,Ananya Singh,Indian Bank (synthetic project data),2025-04-21,Interest Credit,NEFT,0.0,19595.75,270578.42
+IB2025000884,CUST0130,Priya Kumar,Indian Bank (synthetic project data),2025-04-21,Interest Credit,Branch,0.0,44141.84,197765.76
+IB2025000198,CUST0113,Aditya Bose,Indian Bank (synthetic project data),2025-04-21,Cash Deposit,Branch,11028.29,0.0,80214.36
+IB2025000112,CUST0155,Rahul Das,Indian Bank (synthetic project data),2025-04-21,UPI Payment,UPI,0.0,44204.77,115233.28
+IB2025000576,CUST0083,Aditya Bose,Indian Bank (synthetic project data),2025-04-23,ATM Withdrawal,UPI,16340.48,0.0,84530.01
+IB2025000394,CUST0118,Aarav Sharma,Indian Bank (synthetic project data),2025-04-24,ATM Withdrawal,ATM,19629.66,0.0,221201.69
+IB2025000008,CUST0021,Kavya Rao,Indian Bank (synthetic project data),2025-04-24,ATM Withdrawal,IMPS,0.0,46497.57,139708.83
+IB2025000308,CUST0113,Kavya Rao,Indian Bank (synthetic project data),2025-04-25,Cash Deposit,ATM,1249.28,0.0,377438.47
+IB2025000521,CUST0006,Priya Kumar,Indian Bank (synthetic project data),2025-04-25,ATM Withdrawal,IMPS,0.0,39387.27,222712.83
+IB2025000529,CUST0011,Divya Menon,Indian Bank (synthetic project data),2025-04-26,Shopping Payment,Internet Banking,4491.34,0.0,157040.85
+IB2025000161,CUST0030,Rohan Patel,Indian Bank (synthetic project data),2025-04-27,IMPS Transfer,IMPS,10610.87,0.0,389230.5
+IB2025000998,CUST0114,Vikram Iyer,Indian Bank (synthetic project data),2025-04-27,UPI Payment,IMPS,0.0,11432.51,100837.58
+IB2025000119,CUST0238,Divya Menon,Indian Bank (synthetic project data),2025-04-27,IMPS Transfer,Internet Banking,13798.11,0.0,242871.19
+IB2025000877,CUST0238,Ishita Roy,Indian Bank (synthetic project data),2025-04-28,IMPS Transfer,ATM,0.0,9124.01,194277.82
+IB2025000754,CUST0119,Manoj Verma,Indian Bank (synthetic project data),2025-04-28,ATM Withdrawal,Internet Banking,0.0,54268.7,250828.24
+IB2025000832,CUST0030,Priya Kumar,Indian Bank (synthetic project data),2025-04-28,Salary Credit,IMPS,0.0,45451.29,199973.66
+IB2025000823,CUST0003,Pooja Shah,Indian Bank (synthetic project data),2025-04-28,IMPS Transfer,Branch,0.0,32334.48,453121.49
+IB2025000100,CUST0033,Pooja Shah,Indian Bank (synthetic project data),2025-04-28,ATM Withdrawal,UPI,17480.82,0.0,287458.05
+IB2025000029,CUST0026,Priya Kumar,Indian Bank (synthetic project data),2025-04-28,Interest Credit,Internet Banking,0.0,59057.83,170312.0
+IB2025000135,CUST0038,Kavya Rao,Indian Bank (synthetic project data),2025-04-29,Cash Deposit,IMPS,9464.8,0.0,283398.1
+IB2025000418,CUST0095,Meera Nair,Indian Bank (synthetic project data),2025-04-29,Utility Bill,UPI,14237.12,0.0,447239.94
+IB2025000891,CUST0094,Priya Kumar,Indian Bank (synthetic project data),2025-04-29,ATM Withdrawal,IMPS,22763.6,0.0,183429.84
+IB2025000309,CUST0060,Surya Prakash,Indian Bank (synthetic project data),2025-04-29,Shopping Payment,Branch,24838.06,0.0,299360.92
+IB2025000448,CUST0148,Karthik Raj,Indian Bank (synthetic project data),2025-04-29,Shopping Payment,ATM,0.0,56894.25,88874.08
+IB2025000301,CUST0240,Pooja Shah,Indian Bank (synthetic project data),2025-05-01,UPI Payment,NEFT,0.0,4606.64,205024.6
+IB2025000428,CUST0072,Rohan Patel,Indian Bank (synthetic project data),2025-05-01,UPI Payment,ATM,0.0,8971.22,448746.45
+IB2025000730,CUST0159,Rahul Das,Indian Bank (synthetic project data),2025-05-01,UPI Payment,IMPS,19761.33,0.0,327724.18
+IB2025000656,CUST0215,Ananya Singh,Indian Bank (synthetic project data),2025-05-01,IMPS Transfer,Internet Banking,6469.1,0.0,167993.61
+IB2025000197,CUST0215,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-02,ATM Withdrawal,Branch,20302.53,0.0,323417.42
+IB2025000812,CUST0014,Aarav Sharma,Indian Bank (synthetic project data),2025-05-02,Cash Deposit,NEFT,13789.8,0.0,55739.46
+IB2025000808,CUST0228,Surya Prakash,Indian Bank (synthetic project data),2025-05-02,UPI Payment,ATM,20453.28,0.0,330779.82
+IB2025000979,CUST0069,Divya Menon,Indian Bank (synthetic project data),2025-05-03,Salary Credit,NEFT,0.0,50835.04,343740.6
+IB2025000417,CUST0161,Rohan Patel,Indian Bank (synthetic project data),2025-05-03,IMPS Transfer,IMPS,24380.01,0.0,255880.16
+IB2025000984,CUST0094,Rohan Patel,Indian Bank (synthetic project data),2025-05-03,Interest Credit,Internet Banking,0.0,24716.91,421532.38
+IB2025000997,CUST0209,Lakshmi Pillai,Indian Bank (synthetic project data),2025-05-04,Shopping Payment,IMPS,15112.58,0.0,347909.84
+IB2025000489,CUST0035,Aditya Bose,Indian Bank (synthetic project data),2025-05-04,Mobile Recharge,UPI,12743.86,0.0,87694.94
+IB2025000769,CUST0178,Rahul Das,Indian Bank (synthetic project data),2025-05-04,Shopping Payment,Branch,3493.46,0.0,207465.2
+IB2025000102,CUST0162,Priya Kumar,Indian Bank (synthetic project data),2025-05-04,Salary Credit,ATM,1990.94,0.0,405759.9
+IB2025000224,CUST0161,Ananya Singh,Indian Bank (synthetic project data),2025-05-05,Mobile Recharge,Internet Banking,18363.58,0.0,378582.78
+IB2025000956,CUST0046,Karthik Raj,Indian Bank (synthetic project data),2025-05-05,Mobile Recharge,Internet Banking,814.71,0.0,164150.99
+IB2025000081,CUST0194,Aarav Sharma,Indian Bank (synthetic project data),2025-05-06,NEFT Transfer,ATM,0.0,39279.4,419775.19
+IB2025000357,CUST0105,Pooja Shah,Indian Bank (synthetic project data),2025-05-06,Salary Credit,Internet Banking,0.0,47841.58,152113.49
+IB2025000124,CUST0107,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-06,Cash Deposit,NEFT,19781.65,0.0,410454.19
+IB2025000807,CUST0153,Karthik Raj,Indian Bank (synthetic project data),2025-05-06,Shopping Payment,IMPS,17184.89,0.0,322849.57
+IB2025000042,CUST0041,Manoj Verma,Indian Bank (synthetic project data),2025-05-06,Cash Deposit,Internet Banking,0.0,22486.86,151956.05
+IB2025000423,CUST0199,Divya Menon,Indian Bank (synthetic project data),2025-05-06,Shopping Payment,UPI,0.0,52028.92,276992.61
+IB2025000037,CUST0061,Karthik Raj,Indian Bank (synthetic project data),2025-05-06,ATM Withdrawal,Branch,16929.03,0.0,123861.46
+IB2025000026,CUST0018,Priya Kumar,Indian Bank (synthetic project data),2025-05-07,Shopping Payment,UPI,0.0,4002.99,257563.9
+IB2025000108,CUST0202,Surya Prakash,Indian Bank (synthetic project data),2025-05-07,NEFT Transfer,IMPS,0.0,55472.71,58273.37
+IB2025000194,CUST0015,Nithya Krishnan,Indian Bank (synthetic project data),2025-05-08,Utility Bill,UPI,11380.06,0.0,322688.57
+IB2025000971,CUST0074,Rahul Das,Indian Bank (synthetic project data),2025-05-09,UPI Payment,NEFT,0.0,32382.12,498117.62
+IB2025000439,CUST0232,Manoj Verma,Indian Bank (synthetic project data),2025-05-09,Salary Credit,UPI,1752.13,0.0,452633.91
+IB2025000147,CUST0221,Karthik Raj,Indian Bank (synthetic project data),2025-05-09,Cash Deposit,NEFT,24167.53,0.0,46061.13
+IB2025000528,CUST0066,Kavya Rao,Indian Bank (synthetic project data),2025-05-09,IMPS Transfer,NEFT,0.0,6526.78,132798.39
+IB2025000189,CUST0131,Arjun Reddy,Indian Bank (synthetic project data),2025-05-10,Shopping Payment,NEFT,2983.56,0.0,363962.17
+IB2025000398,CUST0175,Manoj Verma,Indian Bank (synthetic project data),2025-05-10,UPI Payment,UPI,5770.84,0.0,348102.96
+IB2025000278,CUST0066,Pooja Shah,Indian Bank (synthetic project data),2025-05-11,NEFT Transfer,ATM,11143.05,0.0,414147.9
+IB2025000542,CUST0115,Rohan Patel,Indian Bank (synthetic project data),2025-05-11,IMPS Transfer,IMPS,20061.34,0.0,158714.7
+IB2025000660,CUST0162,Vikram Iyer,Indian Bank (synthetic project data),2025-05-11,Salary Credit,Internet Banking,7270.11,0.0,404050.85
+IB2025000218,CUST0039,Lakshmi Pillai,Indian Bank (synthetic project data),2025-05-11,Mobile Recharge,Branch,5509.02,0.0,212204.12
+IB2025000476,CUST0009,Aditya Bose,Indian Bank (synthetic project data),2025-05-11,Mobile Recharge,Branch,21370.4,0.0,400424.72
+IB2025000333,CUST0195,Priya Kumar,Indian Bank (synthetic project data),2025-05-12,ATM Withdrawal,IMPS,0.0,51564.04,190252.75
+IB2025000666,CUST0022,Karthik Raj,Indian Bank (synthetic project data),2025-05-13,Utility Bill,ATM,15509.84,0.0,124450.86
+IB2025000830,CUST0211,Vikram Iyer,Indian Bank (synthetic project data),2025-05-14,IMPS Transfer,IMPS,0.0,35934.87,385413.53
+IB2025000726,CUST0243,Ishita Roy,Indian Bank (synthetic project data),2025-05-14,Salary Credit,NEFT,1505.27,0.0,7852.91
+IB2025000203,CUST0203,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-14,Salary Credit,Internet Banking,9510.48,0.0,351712.61
+IB2025000090,CUST0193,Manoj Verma,Indian Bank (synthetic project data),2025-05-15,Mobile Recharge,Branch,11352.43,0.0,334426.05
+IB2025000289,CUST0036,Pooja Shah,Indian Bank (synthetic project data),2025-05-15,Shopping Payment,ATM,2520.32,0.0,4408.23
+IB2025000766,CUST0046,Meera Nair,Indian Bank (synthetic project data),2025-05-15,Utility Bill,Branch,10511.38,0.0,330801.38
+IB2025000583,CUST0098,Karthik Raj,Indian Bank (synthetic project data),2025-05-15,UPI Payment,IMPS,23178.27,0.0,79005.41
+IB2025000283,CUST0190,Priya Kumar,Indian Bank (synthetic project data),2025-05-16,Salary Credit,IMPS,0.0,14317.1,441240.24
+IB2025000513,CUST0110,Karthik Raj,Indian Bank (synthetic project data),2025-05-16,Interest Credit,IMPS,10927.73,0.0,192274.89
+IB2025000460,CUST0187,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-16,IMPS Transfer,UPI,0.0,40366.46,133341.01
+IB2025000527,CUST0172,Pooja Shah,Indian Bank (synthetic project data),2025-05-16,Salary Credit,UPI,0.0,50196.31,389983.59
+IB2025000688,CUST0176,Ishita Roy,Indian Bank (synthetic project data),2025-05-16,Shopping Payment,Internet Banking,12572.99,0.0,30966.12
+IB2025000298,CUST0015,Manoj Verma,Indian Bank (synthetic project data),2025-05-17,Salary Credit,Branch,0.0,27006.22,208296.86
+IB2025000719,CUST0101,Vikram Iyer,Indian Bank (synthetic project data),2025-05-17,Salary Credit,NEFT,7351.11,0.0,42190.01
+IB2025000544,CUST0164,Divya Menon,Indian Bank (synthetic project data),2025-05-17,Cash Deposit,Branch,0.0,57808.69,104218.77
+IB2025000195,CUST0119,Surya Prakash,Indian Bank (synthetic project data),2025-05-17,Cash Deposit,Internet Banking,12750.64,0.0,448042.51
+IB2025000390,CUST0178,Nithya Krishnan,Indian Bank (synthetic project data),2025-05-18,IMPS Transfer,IMPS,18782.59,0.0,164317.35
+IB2025000768,CUST0230,Karthik Raj,Indian Bank (synthetic project data),2025-05-18,ATM Withdrawal,IMPS,0.0,19707.9,421811.51
+IB2025000170,CUST0096,Vikram Iyer,Indian Bank (synthetic project data),2025-05-18,Cash Deposit,UPI,18653.04,0.0,293646.08
+IB2025000665,CUST0141,Priya Kumar,Indian Bank (synthetic project data),2025-05-19,UPI Payment,IMPS,21985.47,0.0,262467.41
+IB2025000256,CUST0222,Ishita Roy,Indian Bank (synthetic project data),2025-05-20,Interest Credit,ATM,23642.81,0.0,481380.24
+IB2025000703,CUST0099,Arjun Reddy,Indian Bank (synthetic project data),2025-05-20,NEFT Transfer,Branch,5890.8,0.0,328781.38
+IB2025000965,CUST0106,Nithya Krishnan,Indian Bank (synthetic project data),2025-05-20,UPI Payment,Internet Banking,24799.85,0.0,122870.21
+IB2025000944,CUST0218,Pooja Shah,Indian Bank (synthetic project data),2025-05-21,Shopping Payment,Internet Banking,0.0,55268.39,295100.9
+IB2025000362,CUST0133,Lakshmi Pillai,Indian Bank (synthetic project data),2025-05-21,Mobile Recharge,Internet Banking,12840.3,0.0,288042.46
+IB2025000839,CUST0090,Kavya Rao,Indian Bank (synthetic project data),2025-05-21,Utility Bill,NEFT,17184.66,0.0,97346.69
+IB2025000403,CUST0187,Karthik Raj,Indian Bank (synthetic project data),2025-05-22,Shopping Payment,IMPS,3210.46,0.0,157937.33
+IB2025000865,CUST0097,Meera Nair,Indian Bank (synthetic project data),2025-05-22,UPI Payment,IMPS,0.0,38115.58,41280.58
+IB2025000467,CUST0105,Lakshmi Pillai,Indian Bank (synthetic project data),2025-05-22,Cash Deposit,NEFT,24363.8,0.0,330638.35
+IB2025000523,CUST0156,Vikram Iyer,Indian Bank (synthetic project data),2025-05-22,Interest Credit,UPI,0.0,16563.64,256280.81
+IB2025000213,CUST0032,Divya Menon,Indian Bank (synthetic project data),2025-05-23,ATM Withdrawal,ATM,0.0,31196.61,137122.86
+IB2025000400,CUST0077,Vikram Iyer,Indian Bank (synthetic project data),2025-05-23,Interest Credit,ATM,9283.91,0.0,321146.5
+IB2025000644,CUST0245,Pooja Shah,Indian Bank (synthetic project data),2025-05-25,Mobile Recharge,UPI,2100.42,0.0,382357.86
+IB2025000351,CUST0102,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-25,Mobile Recharge,IMPS,318.17,0.0,402234.15
+IB2025000861,CUST0158,Kavya Rao,Indian Bank (synthetic project data),2025-05-25,ATM Withdrawal,ATM,14935.19,0.0,213679.52
+IB2025000548,CUST0036,Sneha Joshi,Indian Bank (synthetic project data),2025-05-25,ATM Withdrawal,NEFT,4229.26,0.0,305815.03
+IB2025000044,CUST0073,Ishita Roy,Indian Bank (synthetic project data),2025-05-25,NEFT Transfer,Internet Banking,0.0,9749.15,172097.26
+IB2025000052,CUST0121,Kavya Rao,Indian Bank (synthetic project data),2025-05-26,NEFT Transfer,IMPS,1112.31,0.0,175479.55
+IB2025000030,CUST0115,Vikram Iyer,Indian Bank (synthetic project data),2025-05-26,Interest Credit,ATM,4876.69,0.0,139994.03
+IB2025000268,CUST0204,Aarav Sharma,Indian Bank (synthetic project data),2025-05-27,Mobile Recharge,IMPS,0.0,35230.28,133499.69
+IB2025000801,CUST0044,Divya Menon,Indian Bank (synthetic project data),2025-05-28,Shopping Payment,Branch,11611.86,0.0,287764.45
+IB2025000021,CUST0213,Divya Menon,Indian Bank (synthetic project data),2025-05-28,NEFT Transfer,UPI,0.0,52783.95,121194.92
+IB2025000287,CUST0166,Rahul Das,Indian Bank (synthetic project data),2025-05-28,Salary Credit,UPI,18318.31,0.0,368572.33
+IB2025000938,CUST0194,Sneha Joshi,Indian Bank (synthetic project data),2025-05-28,UPI Payment,ATM,19401.1,0.0,54800.87
+IB2025000609,CUST0054,Surya Prakash,Indian Bank (synthetic project data),2025-05-29,Salary Credit,Internet Banking,12048.54,0.0,416849.13
+IB2025000792,CUST0132,Ananya Singh,Indian Bank (synthetic project data),2025-05-29,NEFT Transfer,Branch,15630.18,0.0,175808.75
+IB2025000381,CUST0094,Lakshmi Pillai,Indian Bank (synthetic project data),2025-05-29,UPI Payment,Internet Banking,13646.19,0.0,221241.92
+IB2025000777,CUST0186,Surya Prakash,Indian Bank (synthetic project data),2025-05-29,Mobile Recharge,UPI,0.0,20811.01,416189.34
+IB2025000530,CUST0012,Aarav Sharma,Indian Bank (synthetic project data),2025-05-30,Salary Credit,Internet Banking,18991.37,0.0,323952.11
+IB2025000263,CUST0096,Sanjay Gupta,Indian Bank (synthetic project data),2025-05-31,Cash Deposit,NEFT,2552.53,0.0,377727.62
+IB2025000857,CUST0134,Manoj Verma,Indian Bank (synthetic project data),2025-05-31,Cash Deposit,ATM,16398.17,0.0,370784.7
+IB2025000304,CUST0136,Vikram Iyer,Indian Bank (synthetic project data),2025-05-31,NEFT Transfer,UPI,13500.87,0.0,378333.53
+IB2025000508,CUST0150,Surya Prakash,Indian Bank (synthetic project data),2025-05-31,Mobile Recharge,UPI,21679.88,0.0,236637.62
+IB2025000761,CUST0001,Ishita Roy,Indian Bank (synthetic project data),2025-05-31,Utility Bill,UPI,0.0,57645.82,229862.69
+IB2025000841,CUST0097,Surya Prakash,Indian Bank (synthetic project data),2025-06-01,Salary Credit,UPI,15176.44,0.0,348131.16
+IB2025000399,CUST0034,Pooja Shah,Indian Bank (synthetic project data),2025-06-01,ATM Withdrawal,ATM,0.0,25627.68,192151.89
+IB2025000183,CUST0045,Vikram Iyer,Indian Bank (synthetic project data),2025-06-01,Interest Credit,Branch,18713.3,0.0,352131.96
+IB2025000422,CUST0046,Kavya Rao,Indian Bank (synthetic project data),2025-06-01,Cash Deposit,UPI,22563.23,0.0,477085.62
+IB2025000156,CUST0024,Arjun Reddy,Indian Bank (synthetic project data),2025-06-02,Mobile Recharge,UPI,0.0,49539.37,26238.68
+IB2025000522,CUST0040,Arjun Reddy,Indian Bank (synthetic project data),2025-06-03,UPI Payment,NEFT,11938.75,0.0,211014.86
+IB2025000827,CUST0072,Rahul Das,Indian Bank (synthetic project data),2025-06-04,Salary Credit,Branch,21308.41,0.0,141204.99
+IB2025000388,CUST0038,Sanjay Gupta,Indian Bank (synthetic project data),2025-06-04,NEFT Transfer,Internet Banking,0.0,8395.11,196957.67
+IB2025000664,CUST0241,Rohan Patel,Indian Bank (synthetic project data),2025-06-04,NEFT Transfer,ATM,0.0,39890.34,199125.75
+IB2025000553,CUST0156,Sanjay Gupta,Indian Bank (synthetic project data),2025-06-05,Cash Deposit,IMPS,16489.42,0.0,209913.71
+IB2025000698,CUST0028,Pooja Shah,Indian Bank (synthetic project data),2025-06-06,NEFT Transfer,UPI,927.15,0.0,16876.76
+IB2025000160,CUST0061,Surya Prakash,Indian Bank (synthetic project data),2025-06-07,Shopping Payment,UPI,19781.12,0.0,87948.85
+IB2025000739,CUST0139,Arjun Reddy,Indian Bank (synthetic project data),2025-06-07,Salary Credit,NEFT,3593.63,0.0,344577.51
+IB2025000519,CUST0130,Meera Nair,Indian Bank (synthetic project data),2025-06-07,ATM Withdrawal,NEFT,694.54,0.0,355843.93
+IB2025000555,CUST0227,Aditya Bose,Indian Bank (synthetic project data),2025-06-08,Utility Bill,Internet Banking,15122.73,0.0,274355.18
+IB2025000225,CUST0209,Meera Nair,Indian Bank (synthetic project data),2025-06-08,IMPS Transfer,Internet Banking,13718.44,0.0,239787.05
+IB2025000374,CUST0030,Meera Nair,Indian Bank (synthetic project data),2025-06-08,Shopping Payment,Internet Banking,6078.53,0.0,71537.91
+IB2025000315,CUST0085,Rohan Patel,Indian Bank (synthetic project data),2025-06-08,IMPS Transfer,NEFT,6486.64,0.0,47139.53
+IB2025000710,CUST0077,Kavya Rao,Indian Bank (synthetic project data),2025-06-09,NEFT Transfer,NEFT,0.0,18459.58,11828.98
+IB2025000302,CUST0166,Sneha Joshi,Indian Bank (synthetic project data),2025-06-09,Shopping Payment,IMPS,0.0,58710.83,224820.03
+IB2025000928,CUST0093,Sneha Joshi,Indian Bank (synthetic project data),2025-06-09,Shopping Payment,UPI,1464.27,0.0,145638.24
+IB2025000878,CUST0092,Rahul Das,Indian Bank (synthetic project data),2025-06-09,NEFT Transfer,NEFT,4974.75,0.0,64478.67
+IB2025000015,CUST0013,Ananya Singh,Indian Bank (synthetic project data),2025-06-10,Salary Credit,Internet Banking,2409.1,0.0,80831.02
+IB2025000888,CUST0203,Nithya Krishnan,Indian Bank (synthetic project data),2025-06-10,IMPS Transfer,Internet Banking,0.0,24618.94,317067.75
+IB2025000921,CUST0075,Lakshmi Pillai,Indian Bank (synthetic project data),2025-06-10,IMPS Transfer,UPI,20832.25,0.0,411576.81
+IB2025000596,CUST0188,Rohan Patel,Indian Bank (synthetic project data),2025-06-11,ATM Withdrawal,UPI,0.0,12187.7,424944.05
+IB2025000404,CUST0064,Lakshmi Pillai,Indian Bank (synthetic project data),2025-06-11,Mobile Recharge,Branch,16168.82,0.0,360868.64
+IB2025000502,CUST0076,Rahul Das,Indian Bank (synthetic project data),2025-06-11,Interest Credit,IMPS,0.0,39496.33,194749.19
+IB2025000937,CUST0054,Vikram Iyer,Indian Bank (synthetic project data),2025-06-12,ATM Withdrawal,IMPS,0.0,18791.99,345718.25
+IB2025000459,CUST0089,Sanjay Gupta,Indian Bank (synthetic project data),2025-06-12,Salary Credit,Internet Banking,2083.49,0.0,442774.81
+IB2025000177,CUST0024,Aditya Bose,Indian Bank (synthetic project data),2025-06-12,NEFT Transfer,IMPS,0.0,58322.71,210496.41
+IB2025000729,CUST0097,Surya Prakash,Indian Bank (synthetic project data),2025-06-12,Cash Deposit,UPI,0.0,40261.5,128472.72
+IB2025000586,CUST0153,Karthik Raj,Indian Bank (synthetic project data),2025-06-12,Cash Deposit,Branch,274.99,0.0,473542.72
+IB2025000389,CUST0107,Karthik Raj,Indian Bank (synthetic project data),2025-06-12,IMPS Transfer,UPI,6827.62,0.0,317180.25
+IB2025000787,CUST0241,Aditya Bose,Indian Bank (synthetic project data),2025-06-13,Salary Credit,ATM,0.0,6345.97,362560.75
+IB2025000799,CUST0234,Nithya Krishnan,Indian Bank (synthetic project data),2025-06-13,Interest Credit,ATM,0.0,37208.05,350107.7
+IB2025000159,CUST0205,Meera Nair,Indian Bank (synthetic project data),2025-06-14,ATM Withdrawal,Internet Banking,0.0,32642.82,433357.5
+IB2025000681,CUST0019,Lakshmi Pillai,Indian Bank (synthetic project data),2025-06-14,IMPS Transfer,ATM,19424.97,0.0,96903.95
+IB2025000064,CUST0122,Ishita Roy,Indian Bank (synthetic project data),2025-06-15,ATM Withdrawal,IMPS,6234.34,0.0,207806.06
+IB2025000165,CUST0163,Surya Prakash,Indian Bank (synthetic project data),2025-06-15,Cash Deposit,Internet Banking,6984.15,0.0,163267.54
+IB2025000313,CUST0138,Pooja Shah,Indian Bank (synthetic project data),2025-06-16,NEFT Transfer,ATM,4719.39,0.0,151067.47
+IB2025000297,CUST0114,Ananya Singh,Indian Bank (synthetic project data),2025-06-16,NEFT Transfer,Internet Banking,21383.98,0.0,291990.69
+IB2025000616,CUST0231,Ishita Roy,Indian Bank (synthetic project data),2025-06-16,Mobile Recharge,UPI,4558.94,0.0,438998.57
+IB2025000072,CUST0181,Arjun Reddy,Indian Bank (synthetic project data),2025-06-17,ATM Withdrawal,IMPS,17394.65,0.0,204392.09
+IB2025000510,CUST0105,Surya Prakash,Indian Bank (synthetic project data),2025-06-17,IMPS Transfer,ATM,5127.37,0.0,158875.35
+IB2025000678,CUST0048,Ananya Singh,Indian Bank (synthetic project data),2025-06-17,Utility Bill,NEFT,13444.02,0.0,63394.56
+IB2025000323,CUST0146,Kavya Rao,Indian Bank (synthetic project data),2025-06-18,IMPS Transfer,Branch,5865.96,0.0,327649.38
+IB2025000923,CUST0214,Pooja Shah,Indian Bank (synthetic project data),2025-06-18,ATM Withdrawal,Internet Banking,23907.26,0.0,333290.82
+IB2025000122,CUST0131,Rahul Das,Indian Bank (synthetic project data),2025-06-18,Interest Credit,IMPS,17957.59,0.0,490142.07
+IB2025000179,CUST0173,Rohan Patel,Indian Bank (synthetic project data),2025-06-19,Utility Bill,IMPS,15503.28,0.0,331307.41
+IB2025000206,CUST0026,Aditya Bose,Indian Bank (synthetic project data),2025-06-19,Cash Deposit,Internet Banking,21134.05,0.0,441957.4
+IB2025000153,CUST0214,Pooja Shah,Indian Bank (synthetic project data),2025-06-19,Mobile Recharge,IMPS,0.0,39467.85,469587.48
+IB2025000540,CUST0127,Meera Nair,Indian Bank (synthetic project data),2025-06-20,ATM Withdrawal,IMPS,11811.83,0.0,160996.27
+IB2025000257,CUST0185,Sanjay Gupta,Indian Bank (synthetic project data),2025-06-21,NEFT Transfer,ATM,0.0,56058.22,249634.51
+IB2025000601,CUST0169,Vikram Iyer,Indian Bank (synthetic project data),2025-06-21,IMPS Transfer,NEFT,23725.49,0.0,21169.49
+IB2025000020,CUST0136,Aarav Sharma,Indian Bank (synthetic project data),2025-06-22,Mobile Recharge,NEFT,19498.87,0.0,244814.25
+IB2025000116,CUST0074,Karthik Raj,Indian Bank (synthetic project data),2025-06-22,Cash Deposit,UPI,17387.79,0.0,227958.13
+IB2025000561,CUST0038,Priya Kumar,Indian Bank (synthetic project data),2025-06-22,Utility Bill,ATM,0.0,41161.72,377043.38
+IB2025000568,CUST0085,Manoj Verma,Indian Bank (synthetic project data),2025-06-22,Salary Credit,UPI,6487.15,0.0,77697.99
+IB2025000247,CUST0058,Nithya Krishnan,Indian Bank (synthetic project data),2025-06-24,Cash Deposit,NEFT,23378.24,0.0,423120.92
+IB2025000146,CUST0124,Divya Menon,Indian Bank (synthetic project data),2025-06-24,Shopping Payment,UPI,20643.54,0.0,234697.36
+IB2025000905,CUST0138,Divya Menon,Indian Bank (synthetic project data),2025-06-25,Salary Credit,ATM,4145.63,0.0,419826.51
+IB2025000826,CUST0075,Ishita Roy,Indian Bank (synthetic project data),2025-06-26,UPI Payment,NEFT,16459.55,0.0,242895.33
+IB2025000386,CUST0075,Surya Prakash,Indian Bank (synthetic project data),2025-06-26,Utility Bill,Branch,17645.74,0.0,492758.66
+IB2025000567,CUST0011,Sneha Joshi,Indian Bank (synthetic project data),2025-06-28,Utility Bill,Branch,0.0,7601.55,132855.56
+IB2025000988,CUST0105,Rahul Das,Indian Bank (synthetic project data),2025-06-29,Mobile Recharge,UPI,6972.5,0.0,245688.93
+IB2025000868,CUST0047,Pooja Shah,Indian Bank (synthetic project data),2025-06-29,Mobile Recharge,UPI,1084.89,0.0,313968.64
+IB2025000114,CUST0235,Rahul Das,Indian Bank (synthetic project data),2025-06-29,Salary Credit,Branch,16340.01,0.0,218506.61
+IB2025000785,CUST0200,Arjun Reddy,Indian Bank (synthetic project data),2025-06-29,ATM Withdrawal,IMPS,19655.86,0.0,253491.35
+IB2025000659,CUST0084,Aditya Bose,Indian Bank (synthetic project data),2025-06-29,IMPS Transfer,Internet Banking,0.0,17434.22,224018.13
+IB2025000829,CUST0125,Meera Nair,Indian Bank (synthetic project data),2025-06-29,Cash Deposit,UPI,17564.26,0.0,172081.15
+IB2025000284,CUST0215,Karthik Raj,Indian Bank (synthetic project data),2025-06-30,IMPS Transfer,ATM,0.0,2662.22,468367.76
+IB2025000654,CUST0229,Aditya Bose,Indian Bank (synthetic project data),2025-06-30,Cash Deposit,Internet Banking,3491.62,0.0,158547.9
+IB2025000760,CUST0079,Divya Menon,Indian Bank (synthetic project data),2025-07-01,IMPS Transfer,NEFT,0.0,3552.97,313599.97
+IB2025000755,CUST0179,Lakshmi Pillai,Indian Bank (synthetic project data),2025-07-02,Salary Credit,IMPS,0.0,56301.63,207366.09
+IB2025000136,CUST0223,Karthik Raj,Indian Bank (synthetic project data),2025-07-02,Mobile Recharge,Internet Banking,2112.36,0.0,121174.07
+IB2025000231,CUST0021,Sanjay Gupta,Indian Bank (synthetic project data),2025-07-02,Utility Bill,NEFT,8132.1,0.0,223511.97
+IB2025000446,CUST0008,Rahul Das,Indian Bank (synthetic project data),2025-07-02,UPI Payment,IMPS,14988.34,0.0,265186.71
+IB2025000511,CUST0162,Meera Nair,Indian Bank (synthetic project data),2025-07-02,Shopping Payment,Internet Banking,0.0,29511.06,29948.78
+IB2025000652,CUST0176,Kavya Rao,Indian Bank (synthetic project data),2025-07-02,ATM Withdrawal,Internet Banking,24484.92,0.0,135704.6
+IB2025000208,CUST0208,Meera Nair,Indian Bank (synthetic project data),2025-07-02,IMPS Transfer,UPI,0.0,46380.32,206018.45
+IB2025000614,CUST0043,Sanjay Gupta,Indian Bank (synthetic project data),2025-07-03,IMPS Transfer,Branch,0.0,30892.89,295707.4
+IB2025000226,CUST0199,Manoj Verma,Indian Bank (synthetic project data),2025-07-03,UPI Payment,NEFT,0.0,4254.48,101593.91
+IB2025000246,CUST0129,Priya Kumar,Indian Bank (synthetic project data),2025-07-03,ATM Withdrawal,Branch,0.0,8177.46,77354.72
+IB2025000532,CUST0117,Rahul Das,Indian Bank (synthetic project data),2025-07-03,Interest Credit,Internet Banking,10096.22,0.0,425485.12
+IB2025000941,CUST0038,Rahul Das,Indian Bank (synthetic project data),2025-07-04,Mobile Recharge,NEFT,0.0,2240.92,176749.43
+IB2025000783,CUST0193,Divya Menon,Indian Bank (synthetic project data),2025-07-05,Shopping Payment,Internet Banking,21635.15,0.0,16782.48
+IB2025000377,CUST0014,Nithya Krishnan,Indian Bank (synthetic project data),2025-07-05,UPI Payment,IMPS,11357.37,0.0,69130.82
+IB2025000621,CUST0002,Surya Prakash,Indian Bank (synthetic project data),2025-07-06,Cash Deposit,UPI,18629.6,0.0,260361.16
+IB2025000518,CUST0208,Karthik Raj,Indian Bank (synthetic project data),2025-07-06,UPI Payment,ATM,22686.32,0.0,112936.36
+IB2025000549,CUST0056,Manoj Verma,Indian Bank (synthetic project data),2025-07-06,NEFT Transfer,Internet Banking,21327.03,0.0,169628.84
+IB2025000406,CUST0014,Kavya Rao,Indian Bank (synthetic project data),2025-07-06,IMPS Transfer,IMPS,0.0,18084.75,57259.09
+IB2025000316,CUST0155,Ishita Roy,Indian Bank (synthetic project data),2025-07-07,UPI Payment,UPI,9522.62,0.0,94893.48
+IB2025000724,CUST0007,Divya Menon,Indian Bank (synthetic project data),2025-07-07,Salary Credit,NEFT,14907.85,0.0,308494.28
+IB2025000093,CUST0126,Lakshmi Pillai,Indian Bank (synthetic project data),2025-07-07,NEFT Transfer,Internet Banking,18043.86,0.0,238570.46
+IB2025000478,CUST0175,Sneha Joshi,Indian Bank (synthetic project data),2025-07-08,NEFT Transfer,Internet Banking,10670.87,0.0,74791.25
+IB2025000097,CUST0244,Meera Nair,Indian Bank (synthetic project data),2025-07-08,NEFT Transfer,ATM,18610.59,0.0,369563.72
+IB2025000509,CUST0098,Aditya Bose,Indian Bank (synthetic project data),2025-07-09,Utility Bill,IMPS,21707.32,0.0,27976.92
+IB2025000774,CUST0161,Ananya Singh,Indian Bank (synthetic project data),2025-07-09,NEFT Transfer,Branch,746.07,0.0,499494.52
+IB2025000778,CUST0173,Pooja Shah,Indian Bank (synthetic project data),2025-07-09,IMPS Transfer,UPI,8547.73,0.0,323180.46
+IB2025000566,CUST0076,Manoj Verma,Indian Bank (synthetic project data),2025-07-10,Salary Credit,Internet Banking,0.0,57875.24,38160.03
+IB2025000722,CUST0135,Kavya Rao,Indian Bank (synthetic project data),2025-07-10,NEFT Transfer,UPI,24927.41,0.0,133862.29
+IB2025000264,CUST0011,Priya Kumar,Indian Bank (synthetic project data),2025-07-11,UPI Payment,ATM,10124.47,0.0,357082.33
+IB2025000797,CUST0137,Rohan Patel,Indian Bank (synthetic project data),2025-07-11,IMPS Transfer,Branch,0.0,40416.78,66765.84
+IB2025000490,CUST0117,Priya Kumar,Indian Bank (synthetic project data),2025-07-12,Shopping Payment,Internet Banking,0.0,15344.67,100355.78
+IB2025000212,CUST0065,Priya Kumar,Indian Bank (synthetic project data),2025-07-12,IMPS Transfer,NEFT,0.0,8734.71,277715.83
+IB2025000227,CUST0080,Aditya Bose,Indian Bank (synthetic project data),2025-07-12,Interest Credit,Branch,0.0,19277.95,237226.48
+IB2025000242,CUST0127,Aarav Sharma,Indian Bank (synthetic project data),2025-07-12,Shopping Payment,Branch,0.0,14585.8,286566.43
+IB2025000845,CUST0126,Ananya Singh,Indian Bank (synthetic project data),2025-07-12,Salary Credit,Branch,4584.29,0.0,384584.95
+IB2025000748,CUST0238,Manoj Verma,Indian Bank (synthetic project data),2025-07-13,Mobile Recharge,IMPS,0.0,4435.11,344243.49
+IB2025000893,CUST0139,Ananya Singh,Indian Bank (synthetic project data),2025-07-14,IMPS Transfer,Internet Banking,8473.0,0.0,469634.82
+IB2025000385,CUST0146,Nithya Krishnan,Indian Bank (synthetic project data),2025-07-15,Cash Deposit,NEFT,0.0,48423.71,298831.99
+IB2025000470,CUST0021,Pooja Shah,Indian Bank (synthetic project data),2025-07-15,ATM Withdrawal,NEFT,7401.51,0.0,392653.41
+IB2025000273,CUST0123,Aditya Bose,Indian Bank (synthetic project data),2025-07-16,Interest Credit,NEFT,24953.35,0.0,478386.06
+IB2025000770,CUST0028,Surya Prakash,Indian Bank (synthetic project data),2025-07-17,Cash Deposit,UPI,0.0,36917.2,242347.83
+IB2025000049,CUST0091,Lakshmi Pillai,Indian Bank (synthetic project data),2025-07-17,Interest Credit,Branch,0.0,40182.54,374989.33
+IB2025000608,CUST0155,Ananya Singh,Indian Bank (synthetic project data),2025-07-18,NEFT Transfer,IMPS,4060.33,0.0,405775.14
+IB2025000728,CUST0067,Lakshmi Pillai,Indian Bank (synthetic project data),2025-07-18,IMPS Transfer,Branch,13153.16,0.0,365231.87
+IB2025000402,CUST0106,Ishita Roy,Indian Bank (synthetic project data),2025-07-19,IMPS Transfer,ATM,0.0,9506.76,44257.33
+IB2025000033,CUST0043,Karthik Raj,Indian Bank (synthetic project data),2025-07-19,UPI Payment,IMPS,0.0,54195.35,133336.33
+IB2025000863,CUST0086,Rohan Patel,Indian Bank (synthetic project data),2025-07-19,ATM Withdrawal,NEFT,0.0,35788.57,71477.16
+IB2025000005,CUST0024,Karthik Raj,Indian Bank (synthetic project data),2025-07-20,ATM Withdrawal,NEFT,0.0,20527.38,423899.69
+IB2025000158,CUST0199,Vikram Iyer,Indian Bank (synthetic project data),2025-07-20,Mobile Recharge,UPI,0.0,14363.42,139360.15
+IB2025000035,CUST0139,Priya Kumar,Indian Bank (synthetic project data),2025-07-21,Shopping Payment,UPI,0.0,34961.23,26021.03
+IB2025000846,CUST0114,Rahul Das,Indian Bank (synthetic project data),2025-07-21,ATM Withdrawal,UPI,2790.31,0.0,37386.83
+IB2025000382,CUST0213,Kavya Rao,Indian Bank (synthetic project data),2025-07-21,Utility Bill,UPI,0.0,6593.78,225416.44
+IB2025000584,CUST0205,Lakshmi Pillai,Indian Bank (synthetic project data),2025-07-22,Utility Bill,Internet Banking,9866.17,0.0,72893.69
+IB2025000913,CUST0015,Ishita Roy,Indian Bank (synthetic project data),2025-07-22,NEFT Transfer,Branch,2448.16,0.0,263690.49
+IB2025000547,CUST0163,Divya Menon,Indian Bank (synthetic project data),2025-07-23,Cash Deposit,Branch,8975.2,0.0,187571.29
+IB2025000883,CUST0039,Surya Prakash,Indian Bank (synthetic project data),2025-07-23,UPI Payment,IMPS,0.0,35710.41,490111.84
+IB2025000629,CUST0186,Karthik Raj,Indian Bank (synthetic project data),2025-07-23,Interest Credit,Branch,15284.37,0.0,328431.44
+IB2025000438,CUST0096,Rohan Patel,Indian Bank (synthetic project data),2025-07-23,Mobile Recharge,Branch,20618.28,0.0,130151.51
+IB2025000933,CUST0144,Ishita Roy,Indian Bank (synthetic project data),2025-07-23,Cash Deposit,Branch,0.0,47808.85,356561.02
+IB2025000322,CUST0142,Surya Prakash,Indian Bank (synthetic project data),2025-07-23,Mobile Recharge,Internet Banking,0.0,1465.08,209371.46
+IB2025000700,CUST0239,Arjun Reddy,Indian Bank (synthetic project data),2025-07-23,IMPS Transfer,UPI,1911.22,0.0,234561.51
+IB2025000606,CUST0223,Nithya Krishnan,Indian Bank (synthetic project data),2025-07-24,IMPS Transfer,IMPS,8919.52,0.0,443698.8
+IB2025000173,CUST0143,Nithya Krishnan,Indian Bank (synthetic project data),2025-07-24,ATM Withdrawal,NEFT,0.0,21331.78,287475.9
+IB2025000104,CUST0233,Manoj Verma,Indian Bank (synthetic project data),2025-07-25,Utility Bill,Branch,0.0,23132.49,495025.6
+IB2025000109,CUST0212,Vikram Iyer,Indian Bank (synthetic project data),2025-07-25,ATM Withdrawal,UPI,0.0,54550.48,83795.47
+IB2025000053,CUST0103,Sanjay Gupta,Indian Bank (synthetic project data),2025-07-26,Utility Bill,UPI,16551.82,0.0,483477.66
+IB2025000580,CUST0116,Karthik Raj,Indian Bank (synthetic project data),2025-07-26,Interest Credit,NEFT,0.0,24754.15,9428.59
+IB2025000946,CUST0081,Ananya Singh,Indian Bank (synthetic project data),2025-07-26,IMPS Transfer,UPI,19071.02,0.0,260344.06
+IB2025000615,CUST0005,Arjun Reddy,Indian Bank (synthetic project data),2025-07-27,Cash Deposit,Branch,3435.5,0.0,342499.55
+IB2025000881,CUST0126,Arjun Reddy,Indian Bank (synthetic project data),2025-07-27,Mobile Recharge,IMPS,21445.8,0.0,418657.52
+IB2025000632,CUST0093,Kavya Rao,Indian Bank (synthetic project data),2025-07-28,UPI Payment,ATM,16899.51,0.0,44334.56
+IB2025000432,CUST0200,Surya Prakash,Indian Bank (synthetic project data),2025-07-29,ATM Withdrawal,ATM,5187.41,0.0,53723.22
+IB2025000858,CUST0037,Pooja Shah,Indian Bank (synthetic project data),2025-07-29,UPI Payment,IMPS,0.0,2694.22,453682.26
+IB2025000966,CUST0234,Rohan Patel,Indian Bank (synthetic project data),2025-07-30,Utility Bill,UPI,0.0,35755.63,169459.53
+IB2025000653,CUST0051,Vikram Iyer,Indian Bank (synthetic project data),2025-07-30,Salary Credit,IMPS,21429.27,0.0,403028.51
+IB2025000994,CUST0042,Manoj Verma,Indian Bank (synthetic project data),2025-07-30,Shopping Payment,Internet Banking,21506.51,0.0,203738.12
+IB2025000235,CUST0099,Surya Prakash,Indian Bank (synthetic project data),2025-07-30,UPI Payment,Branch,0.0,22296.54,77565.64
+IB2025000985,CUST0239,Ananya Singh,Indian Bank (synthetic project data),2025-07-30,Cash Deposit,Internet Banking,18401.84,0.0,414661.81
+IB2025000980,CUST0050,Aarav Sharma,Indian Bank (synthetic project data),2025-07-30,NEFT Transfer,NEFT,2971.93,0.0,232615.69
+IB2025000133,CUST0059,Rohan Patel,Indian Bank (synthetic project data),2025-07-30,Interest Credit,UPI,0.0,55295.28,380424.48
+IB2025000050,CUST0208,Meera Nair,Indian Bank (synthetic project data),2025-07-31,Interest Credit,UPI,0.0,58584.26,90500.97
+IB2025000831,CUST0043,Arjun Reddy,Indian Bank (synthetic project data),2025-07-31,Mobile Recharge,Internet Banking,0.0,43696.95,421074.68
+IB2025000431,CUST0238,Karthik Raj,Indian Bank (synthetic project data),2025-07-31,Shopping Payment,NEFT,21295.21,0.0,226926.17
+IB2025000876,CUST0097,Kavya Rao,Indian Bank (synthetic project data),2025-07-31,ATM Withdrawal,IMPS,0.0,52258.24,292961.04
+IB2025000413,CUST0112,Ananya Singh,Indian Bank (synthetic project data),2025-08-01,IMPS Transfer,Branch,2292.39,0.0,304807.37
+IB2025000855,CUST0139,Divya Menon,Indian Bank (synthetic project data),2025-08-01,IMPS Transfer,Branch,1715.37,0.0,482511.97
+IB2025000127,CUST0199,Sneha Joshi,Indian Bank (synthetic project data),2025-08-01,UPI Payment,NEFT,5954.03,0.0,372607.87
+IB2025000643,CUST0052,Kavya Rao,Indian Bank (synthetic project data),2025-08-02,Mobile Recharge,NEFT,0.0,12803.33,78841.79
+IB2025000331,CUST0209,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-02,Utility Bill,IMPS,13232.43,0.0,40430.6
+IB2025000259,CUST0013,Divya Menon,Indian Bank (synthetic project data),2025-08-02,IMPS Transfer,Branch,8919.44,0.0,441287.4
+IB2025000501,CUST0206,Ishita Roy,Indian Bank (synthetic project data),2025-08-02,Interest Credit,Internet Banking,0.0,48423.07,160473.28
+IB2025000123,CUST0049,Ishita Roy,Indian Bank (synthetic project data),2025-08-03,Cash Deposit,Internet Banking,3744.35,0.0,439783.8
+IB2025000348,CUST0098,Meera Nair,Indian Bank (synthetic project data),2025-08-03,Salary Credit,NEFT,4364.14,0.0,151264.5
+IB2025000280,CUST0058,Kavya Rao,Indian Bank (synthetic project data),2025-08-03,UPI Payment,UPI,22643.83,0.0,207237.38
+IB2025000638,CUST0118,Manoj Verma,Indian Bank (synthetic project data),2025-08-03,Mobile Recharge,UPI,0.0,57693.7,241503.11
+IB2025000070,CUST0200,Aditya Bose,Indian Bank (synthetic project data),2025-08-05,IMPS Transfer,Internet Banking,0.0,17000.03,120383.69
+IB2025000275,CUST0242,Divya Menon,Indian Bank (synthetic project data),2025-08-05,Utility Bill,Internet Banking,7567.7,0.0,104431.62
+IB2025000734,CUST0126,Karthik Raj,Indian Bank (synthetic project data),2025-08-05,Salary Credit,UPI,0.0,18643.19,174043.17
+IB2025000025,CUST0151,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-05,NEFT Transfer,Branch,8551.43,0.0,110888.47
+IB2025000295,CUST0202,Rohan Patel,Indian Bank (synthetic project data),2025-08-05,Cash Deposit,IMPS,0.0,35950.96,264558.39
+IB2025000437,CUST0204,Vikram Iyer,Indian Bank (synthetic project data),2025-08-06,ATM Withdrawal,UPI,2682.4,0.0,31772.92
+IB2025000031,CUST0207,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-06,ATM Withdrawal,UPI,0.0,4985.4,326420.3
+IB2025000461,CUST0202,Ananya Singh,Indian Bank (synthetic project data),2025-08-06,UPI Payment,UPI,0.0,21353.63,193582.61
+IB2025000143,CUST0169,Vikram Iyer,Indian Bank (synthetic project data),2025-08-07,ATM Withdrawal,Internet Banking,0.0,43395.24,323523.96
+IB2025000955,CUST0242,Vikram Iyer,Indian Bank (synthetic project data),2025-08-07,UPI Payment,UPI,5885.92,0.0,369161.38
+IB2025000682,CUST0032,Kavya Rao,Indian Bank (synthetic project data),2025-08-07,Interest Credit,IMPS,0.0,49781.0,124333.93
+IB2025000248,CUST0071,Vikram Iyer,Indian Bank (synthetic project data),2025-08-07,Utility Bill,Branch,23915.34,0.0,267205.54
+IB2025000842,CUST0020,Manoj Verma,Indian Bank (synthetic project data),2025-08-08,Utility Bill,IMPS,16562.87,0.0,346418.52
+IB2025000358,CUST0203,Karthik Raj,Indian Bank (synthetic project data),2025-08-08,ATM Withdrawal,IMPS,0.0,43056.57,495359.61
+IB2025000169,CUST0237,Pooja Shah,Indian Bank (synthetic project data),2025-08-09,ATM Withdrawal,UPI,3943.08,0.0,416054.17
+IB2025000837,CUST0198,Kavya Rao,Indian Bank (synthetic project data),2025-08-09,Mobile Recharge,ATM,0.0,23773.65,260456.21
+IB2025000083,CUST0156,Ananya Singh,Indian Bank (synthetic project data),2025-08-10,Salary Credit,NEFT,0.0,10483.45,54941.28
+IB2025000637,CUST0148,Rahul Das,Indian Bank (synthetic project data),2025-08-10,IMPS Transfer,IMPS,0.0,48882.27,282021.13
+IB2025000828,CUST0045,Surya Prakash,Indian Bank (synthetic project data),2025-08-10,Salary Credit,Internet Banking,2922.0,0.0,223879.93
+IB2025000926,CUST0178,Ananya Singh,Indian Bank (synthetic project data),2025-08-11,Shopping Payment,Branch,0.0,28824.42,366745.68
+IB2025000650,CUST0069,Pooja Shah,Indian Bank (synthetic project data),2025-08-11,Mobile Recharge,NEFT,6681.8,0.0,183596.15
+IB2025000493,CUST0073,Aarav Sharma,Indian Bank (synthetic project data),2025-08-11,Interest Credit,UPI,0.0,41486.61,82290.8
+IB2025000772,CUST0091,Vikram Iyer,Indian Bank (synthetic project data),2025-08-11,Mobile Recharge,Branch,24876.35,0.0,248702.07
+IB2025000639,CUST0057,Kavya Rao,Indian Bank (synthetic project data),2025-08-11,Shopping Payment,IMPS,15896.5,0.0,477767.4
+IB2025000039,CUST0062,Rahul Das,Indian Bank (synthetic project data),2025-08-12,Interest Credit,ATM,17947.37,0.0,336173.42
+IB2025000055,CUST0068,Priya Kumar,Indian Bank (synthetic project data),2025-08-12,ATM Withdrawal,Branch,24068.98,0.0,217847.32
+IB2025000079,CUST0084,Sanjay Gupta,Indian Bank (synthetic project data),2025-08-12,Interest Credit,NEFT,5409.76,0.0,376252.9
+IB2025000525,CUST0092,Sneha Joshi,Indian Bank (synthetic project data),2025-08-13,Utility Bill,ATM,0.0,58400.62,20663.45
+IB2025000694,CUST0199,Aditya Bose,Indian Bank (synthetic project data),2025-08-13,Interest Credit,Internet Banking,11433.86,0.0,93581.61
+IB2025000131,CUST0167,Rohan Patel,Indian Bank (synthetic project data),2025-08-14,Shopping Payment,Internet Banking,17363.71,0.0,429811.75
+IB2025000434,CUST0207,Divya Menon,Indian Bank (synthetic project data),2025-08-14,Mobile Recharge,UPI,0.0,5880.04,108295.37
+IB2025000968,CUST0006,Sanjay Gupta,Indian Bank (synthetic project data),2025-08-15,Interest Credit,Branch,11822.04,0.0,195760.09
+IB2025000642,CUST0239,Arjun Reddy,Indian Bank (synthetic project data),2025-08-16,IMPS Transfer,Internet Banking,18691.98,0.0,100633.6
+IB2025000473,CUST0179,Ananya Singh,Indian Bank (synthetic project data),2025-08-16,ATM Withdrawal,Internet Banking,3905.6,0.0,172551.9
+IB2025000485,CUST0210,Divya Menon,Indian Bank (synthetic project data),2025-08-16,Utility Bill,NEFT,0.0,1703.86,421580.44
+IB2025000416,CUST0231,Aarav Sharma,Indian Bank (synthetic project data),2025-08-16,Shopping Payment,IMPS,0.0,7524.37,136718.32
+IB2025000890,CUST0148,Arjun Reddy,Indian Bank (synthetic project data),2025-08-17,ATM Withdrawal,Branch,0.0,36943.82,440542.78
+IB2025000279,CUST0036,Ananya Singh,Indian Bank (synthetic project data),2025-08-17,Mobile Recharge,Internet Banking,0.0,41922.19,293828.42
+IB2025000973,CUST0122,Sneha Joshi,Indian Bank (synthetic project data),2025-08-18,NEFT Transfer,NEFT,20059.46,0.0,398030.22
+IB2025000311,CUST0226,Meera Nair,Indian Bank (synthetic project data),2025-08-19,Interest Credit,Branch,23720.73,0.0,248314.77
+IB2025000233,CUST0015,Rohan Patel,Indian Bank (synthetic project data),2025-08-19,Interest Credit,NEFT,0.0,47592.93,257029.92
+IB2025000396,CUST0022,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-19,Salary Credit,UPI,9106.82,0.0,198774.44
+IB2025000442,CUST0009,Ishita Roy,Indian Bank (synthetic project data),2025-08-19,Mobile Recharge,Branch,22103.08,0.0,123646.6
+IB2025000046,CUST0034,Rahul Das,Indian Bank (synthetic project data),2025-08-20,Salary Credit,Internet Banking,8438.88,0.0,221475.92
+IB2025000098,CUST0135,Ishita Roy,Indian Bank (synthetic project data),2025-08-20,Utility Bill,UPI,0.0,58608.12,416481.55
+IB2025000635,CUST0117,Karthik Raj,Indian Bank (synthetic project data),2025-08-20,Mobile Recharge,UPI,24081.97,0.0,131292.65
+IB2025000633,CUST0102,Karthik Raj,Indian Bank (synthetic project data),2025-08-20,Mobile Recharge,ATM,0.0,21511.1,259353.61
+IB2025000500,CUST0229,Divya Menon,Indian Bank (synthetic project data),2025-08-20,NEFT Transfer,ATM,17820.68,0.0,259129.5
+IB2025000791,CUST0172,Ananya Singh,Indian Bank (synthetic project data),2025-08-20,Utility Bill,ATM,19353.76,0.0,79590.51
+IB2025000914,CUST0218,Manoj Verma,Indian Bank (synthetic project data),2025-08-21,ATM Withdrawal,Branch,2227.2,0.0,197817.38
+IB2025000004,CUST0207,Meera Nair,Indian Bank (synthetic project data),2025-08-21,Interest Credit,NEFT,0.0,886.68,139657.8
+IB2025000411,CUST0236,Arjun Reddy,Indian Bank (synthetic project data),2025-08-21,Salary Credit,Branch,2113.69,0.0,164048.4
+IB2025000054,CUST0174,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-21,Shopping Payment,UPI,12808.73,0.0,58555.53
+IB2025000764,CUST0212,Arjun Reddy,Indian Bank (synthetic project data),2025-08-21,UPI Payment,ATM,14005.08,0.0,74979.83
+IB2025000990,CUST0093,Pooja Shah,Indian Bank (synthetic project data),2025-08-21,Shopping Payment,NEFT,0.0,56249.85,11516.03
+IB2025000882,CUST0224,Kavya Rao,Indian Bank (synthetic project data),2025-08-21,NEFT Transfer,NEFT,10788.54,0.0,217690.11
+IB2025000953,CUST0152,Rahul Das,Indian Bank (synthetic project data),2025-08-21,Interest Credit,NEFT,0.0,46075.34,238437.32
+IB2025000027,CUST0034,Surya Prakash,Indian Bank (synthetic project data),2025-08-21,Mobile Recharge,IMPS,0.0,13247.09,122255.62
+IB2025000154,CUST0114,Manoj Verma,Indian Bank (synthetic project data),2025-08-22,NEFT Transfer,NEFT,9357.67,0.0,50577.96
+IB2025000782,CUST0097,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-22,Salary Credit,Branch,0.0,20679.57,303238.86
+IB2025000125,CUST0149,Pooja Shah,Indian Bank (synthetic project data),2025-08-23,Salary Credit,IMPS,0.0,50329.82,269751.71
+IB2025000813,CUST0180,Surya Prakash,Indian Bank (synthetic project data),2025-08-23,Interest Credit,Internet Banking,0.0,14496.85,159745.53
+IB2025000499,CUST0017,Sanjay Gupta,Indian Bank (synthetic project data),2025-08-23,Utility Bill,Internet Banking,2836.4,0.0,163243.4
+IB2025000776,CUST0077,Aditya Bose,Indian Bank (synthetic project data),2025-08-23,Cash Deposit,NEFT,1835.73,0.0,383749.27
+IB2025000575,CUST0198,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-23,Cash Deposit,Branch,12994.17,0.0,223332.89
+IB2025000667,CUST0135,Meera Nair,Indian Bank (synthetic project data),2025-08-24,UPI Payment,UPI,3291.33,0.0,332111.02
+IB2025000181,CUST0135,Divya Menon,Indian Bank (synthetic project data),2025-08-24,UPI Payment,ATM,0.0,35791.49,198236.43
+IB2025000405,CUST0218,Divya Menon,Indian Bank (synthetic project data),2025-08-24,NEFT Transfer,Branch,0.0,41583.33,303856.51
+IB2025000239,CUST0052,Ananya Singh,Indian Bank (synthetic project data),2025-08-25,Salary Credit,UPI,0.0,59918.42,226569.3
+IB2025000630,CUST0243,Meera Nair,Indian Bank (synthetic project data),2025-08-25,IMPS Transfer,IMPS,0.0,36049.62,6344.49
+IB2025000142,CUST0206,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-25,NEFT Transfer,Internet Banking,0.0,14192.04,95875.86
+IB2025000172,CUST0148,Aditya Bose,Indian Bank (synthetic project data),2025-08-26,NEFT Transfer,ATM,8888.41,0.0,328711.42
+IB2025000219,CUST0062,Sneha Joshi,Indian Bank (synthetic project data),2025-08-26,Mobile Recharge,IMPS,3177.93,0.0,32340.77
+IB2025000924,CUST0177,Kavya Rao,Indian Bank (synthetic project data),2025-08-26,UPI Payment,UPI,12373.38,0.0,382594.46
+IB2025000590,CUST0051,Surya Prakash,Indian Bank (synthetic project data),2025-08-27,IMPS Transfer,NEFT,0.0,15415.91,179212.04
+IB2025000285,CUST0146,Ishita Roy,Indian Bank (synthetic project data),2025-08-27,ATM Withdrawal,NEFT,0.0,1051.4,142996.26
+IB2025000557,CUST0034,Meera Nair,Indian Bank (synthetic project data),2025-08-27,Cash Deposit,Branch,0.0,55310.91,347461.67
+IB2025000901,CUST0206,Kavya Rao,Indian Bank (synthetic project data),2025-08-28,Cash Deposit,Internet Banking,697.61,0.0,168602.81
+IB2025000673,CUST0141,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-28,NEFT Transfer,IMPS,19949.67,0.0,441198.87
+IB2025000007,CUST0221,Nithya Krishnan,Indian Bank (synthetic project data),2025-08-29,Mobile Recharge,ATM,0.0,37301.93,352581.35
+IB2025000293,CUST0246,Vikram Iyer,Indian Bank (synthetic project data),2025-08-30,IMPS Transfer,ATM,5638.1,0.0,228034.36
+IB2025000288,CUST0045,Ishita Roy,Indian Bank (synthetic project data),2025-08-30,Interest Credit,IMPS,18968.48,0.0,258125.05
+IB2025000443,CUST0123,Priya Kumar,Indian Bank (synthetic project data),2025-08-30,ATM Withdrawal,NEFT,22087.05,0.0,192124.62
+IB2025000343,CUST0022,Rahul Das,Indian Bank (synthetic project data),2025-08-30,Salary Credit,IMPS,0.0,42929.96,356126.9
+IB2025000099,CUST0004,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-30,Salary Credit,NEFT,4609.12,0.0,23712.33
+IB2025000468,CUST0147,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-31,IMPS Transfer,ATM,1383.44,0.0,28197.92
+IB2025000305,CUST0109,Lakshmi Pillai,Indian Bank (synthetic project data),2025-08-31,Interest Credit,ATM,18019.49,0.0,124508.51
+IB2025000713,CUST0235,Arjun Reddy,Indian Bank (synthetic project data),2025-09-01,ATM Withdrawal,Internet Banking,10084.99,0.0,163021.33
+IB2025000139,CUST0065,Manoj Verma,Indian Bank (synthetic project data),2025-09-01,Utility Bill,ATM,0.0,25746.38,499687.41
+IB2025000436,CUST0008,Karthik Raj,Indian Bank (synthetic project data),2025-09-01,IMPS Transfer,Branch,24768.31,0.0,374291.15
+IB2025000040,CUST0240,Rohan Patel,Indian Bank (synthetic project data),2025-09-01,UPI Payment,IMPS,23236.11,0.0,310958.47
+IB2025000869,CUST0061,Arjun Reddy,Indian Bank (synthetic project data),2025-09-02,ATM Withdrawal,Branch,263.57,0.0,488418.95
+IB2025000833,CUST0237,Lakshmi Pillai,Indian Bank (synthetic project data),2025-09-02,NEFT Transfer,IMPS,23714.06,0.0,342071.47
+IB2025000803,CUST0106,Kavya Rao,Indian Bank (synthetic project data),2025-09-02,Mobile Recharge,ATM,10110.29,0.0,274426.56
+IB2025000922,CUST0144,Manoj Verma,Indian Bank (synthetic project data),2025-09-02,NEFT Transfer,UPI,0.0,18582.91,395818.55
+IB2025000919,CUST0086,Rohan Patel,Indian Bank (synthetic project data),2025-09-03,Mobile Recharge,IMPS,21708.02,0.0,45135.69
+IB2025000957,CUST0020,Aditya Bose,Indian Bank (synthetic project data),2025-09-03,IMPS Transfer,IMPS,0.0,6231.85,101763.95
+IB2025000111,CUST0129,Lakshmi Pillai,Indian Bank (synthetic project data),2025-09-03,IMPS Transfer,IMPS,0.0,56589.24,41140.48
+IB2025000103,CUST0143,Sneha Joshi,Indian Bank (synthetic project data),2025-09-03,Mobile Recharge,Branch,6317.55,0.0,395579.67
+IB2025000587,CUST0186,Nithya Krishnan,Indian Bank (synthetic project data),2025-09-04,NEFT Transfer,IMPS,18574.55,0.0,452908.39
+IB2025000999,CUST0041,Kavya Rao,Indian Bank (synthetic project data),2025-09-04,Cash Deposit,Internet Banking,2193.47,0.0,484862.63
+IB2025000887,CUST0147,Surya Prakash,Indian Bank (synthetic project data),2025-09-04,UPI Payment,IMPS,11563.18,0.0,232416.56
+IB2025000105,CUST0246,Ananya Singh,Indian Bank (synthetic project data),2025-09-04,NEFT Transfer,Internet Banking,1646.72,0.0,106301.57
+IB2025000397,CUST0110,Rohan Patel,Indian Bank (synthetic project data),2025-09-04,ATM Withdrawal,UPI,0.0,45436.31,107497.17
+IB2025000595,CUST0166,Ishita Roy,Indian Bank (synthetic project data),2025-09-04,ATM Withdrawal,NEFT,2854.49,0.0,429498.11
+IB2025000095,CUST0142,Aditya Bose,Indian Bank (synthetic project data),2025-09-04,Shopping Payment,IMPS,0.0,22456.72,498319.1
+IB2025000860,CUST0157,Meera Nair,Indian Bank (synthetic project data),2025-09-05,Mobile Recharge,UPI,0.0,6288.89,409082.29
+IB2025000507,CUST0096,Rahul Das,Indian Bank (synthetic project data),2025-09-05,Mobile Recharge,NEFT,22188.06,0.0,232416.55
+IB2025000110,CUST0236,Divya Menon,Indian Bank (synthetic project data),2025-09-05,IMPS Transfer,UPI,20632.37,0.0,234880.29
+IB2025000210,CUST0232,Arjun Reddy,Indian Bank (synthetic project data),2025-09-06,Shopping Payment,Internet Banking,0.0,47170.03,473617.95
+IB2025000144,CUST0094,Vikram Iyer,Indian Bank (synthetic project data),2025-09-06,ATM Withdrawal,NEFT,0.0,2485.19,164032.84
+IB2025000176,CUST0047,Vikram Iyer,Indian Bank (synthetic project data),2025-09-06,Mobile Recharge,Internet Banking,0.0,21385.89,200991.39
+IB2025000414,CUST0045,Ananya Singh,Indian Bank (synthetic project data),2025-09-06,UPI Payment,Internet Banking,0.0,39654.12,69468.69
+IB2025000992,CUST0232,Ananya Singh,Indian Bank (synthetic project data),2025-09-06,Cash Deposit,ATM,0.0,42186.7,428965.92
+IB2025000205,CUST0243,Pooja Shah,Indian Bank (synthetic project data),2025-09-06,NEFT Transfer,ATM,5472.69,0.0,499988.33
+IB2025000790,CUST0164,Arjun Reddy,Indian Bank (synthetic project data),2025-09-07,Shopping Payment,ATM,18998.57,0.0,97080.27
+IB2025000794,CUST0114,Priya Kumar,Indian Bank (synthetic project data),2025-09-07,Salary Credit,UPI,8567.66,0.0,235897.05
+IB2025000365,CUST0134,Pooja Shah,Indian Bank (synthetic project data),2025-09-07,Shopping Payment,IMPS,19639.11,0.0,49713.89
+IB2025000961,CUST0029,Surya Prakash,Indian Bank (synthetic project data),2025-09-07,IMPS Transfer,Internet Banking,0.0,29503.57,277338.17
+IB2025000680,CUST0096,Manoj Verma,Indian Bank (synthetic project data),2025-09-07,UPI Payment,NEFT,0.0,30154.55,41031.33
+IB2025000684,CUST0187,Priya Kumar,Indian Bank (synthetic project data),2025-09-07,Cash Deposit,Branch,0.0,9937.38,61948.61
+IB2025000556,CUST0162,Arjun Reddy,Indian Bank (synthetic project data),2025-09-08,NEFT Transfer,ATM,0.0,56162.97,312459.63
+IB2025000662,CUST0069,Ishita Roy,Indian Bank (synthetic project data),2025-09-08,Interest Credit,NEFT,7390.21,0.0,443958.21
+IB2025000056,CUST0030,Karthik Raj,Indian Bank (synthetic project data),2025-09-08,Mobile Recharge,ATM,24608.26,0.0,128106.53
+IB2025000750,CUST0147,Ishita Roy,Indian Bank (synthetic project data),2025-09-08,Cash Deposit,Branch,23487.61,0.0,321055.52
+IB2025000707,CUST0217,Nithya Krishnan,Indian Bank (synthetic project data),2025-09-09,Interest Credit,Internet Banking,24921.73,0.0,215863.45
+IB2025000593,CUST0081,Kavya Rao,Indian Bank (synthetic project data),2025-09-09,NEFT Transfer,Internet Banking,0.0,10534.05,370168.29
+IB2025000117,CUST0198,Karthik Raj,Indian Bank (synthetic project data),2025-09-09,Cash Deposit,UPI,3030.65,0.0,329172.53
+IB2025000908,CUST0115,Lakshmi Pillai,Indian Bank (synthetic project data),2025-09-10,Salary Credit,Branch,0.0,9302.68,151478.32
+IB2025000810,CUST0174,Divya Menon,Indian Bank (synthetic project data),2025-09-10,Interest Credit,Internet Banking,19889.51,0.0,491307.57
+IB2025000266,CUST0190,Divya Menon,Indian Bank (synthetic project data),2025-09-11,Mobile Recharge,NEFT,24766.8,0.0,254150.18
+IB2025000793,CUST0206,Divya Menon,Indian Bank (synthetic project data),2025-09-11,Mobile Recharge,ATM,23590.45,0.0,86466.21
+IB2025000742,CUST0106,Divya Menon,Indian Bank (synthetic project data),2025-09-11,IMPS Transfer,Internet Banking,0.0,25135.39,466950.49
+IB2025000216,CUST0167,Sanjay Gupta,Indian Bank (synthetic project data),2025-09-11,Salary Credit,ATM,0.0,50430.99,20113.29
+IB2025000487,CUST0166,Rohan Patel,Indian Bank (synthetic project data),2025-09-12,NEFT Transfer,IMPS,10506.8,0.0,106483.86
+IB2025000558,CUST0144,Pooja Shah,Indian Bank (synthetic project data),2025-09-13,Mobile Recharge,Branch,0.0,45766.11,471394.15
+IB2025000569,CUST0161,Ishita Roy,Indian Bank (synthetic project data),2025-09-13,Utility Bill,IMPS,19375.47,0.0,395164.18
+IB2025000708,CUST0055,Karthik Raj,Indian Bank (synthetic project data),2025-09-13,Cash Deposit,Internet Banking,14144.15,0.0,127790.47
+IB2025000697,CUST0025,Aditya Bose,Indian Bank (synthetic project data),2025-09-13,ATM Withdrawal,UPI,8152.3,0.0,417761.49
+IB2025000668,CUST0223,Lakshmi Pillai,Indian Bank (synthetic project data),2025-09-14,Utility Bill,Branch,0.0,28298.01,222977.62
+IB2025000347,CUST0106,Karthik Raj,Indian Bank (synthetic project data),2025-09-14,ATM Withdrawal,Internet Banking,0.0,1234.27,450666.89
+IB2025000435,CUST0248,Nithya Krishnan,Indian Bank (synthetic project data),2025-09-15,Interest Credit,Branch,17822.26,0.0,25426.36
+IB2025000592,CUST0150,Vikram Iyer,Indian Bank (synthetic project data),2025-09-16,Mobile Recharge,Branch,7746.04,0.0,182882.22
+IB2025000352,CUST0211,Ishita Roy,Indian Bank (synthetic project data),2025-09-16,Salary Credit,NEFT,10850.81,0.0,161011.91
+IB2025000531,CUST0160,Rahul Das,Indian Bank (synthetic project data),2025-09-16,ATM Withdrawal,NEFT,11027.21,0.0,407667.18
+IB2025000541,CUST0058,Lakshmi Pillai,Indian Bank (synthetic project data),2025-09-17,Interest Credit,IMPS,0.0,3495.87,408734.55
+IB2025000579,CUST0046,Rahul Das,Indian Bank (synthetic project data),2025-09-17,Cash Deposit,UPI,1970.21,0.0,287906.18
+IB2025000440,CUST0013,Meera Nair,Indian Bank (synthetic project data),2025-09-17,Mobile Recharge,IMPS,23565.67,0.0,411021.02
+IB2025000368,CUST0060,Karthik Raj,Indian Bank (synthetic project data),2025-09-17,Salary Credit,ATM,23967.8,0.0,320598.96
+IB2025000996,CUST0210,Ananya Singh,Indian Bank (synthetic project data),2025-09-18,Salary Credit,Internet Banking,0.0,52667.29,131224.07
+IB2025000157,CUST0145,Arjun Reddy,Indian Bank (synthetic project data),2025-09-18,ATM Withdrawal,Branch,3279.21,0.0,104371.53
+IB2025000051,CUST0172,Kavya Rao,Indian Bank (synthetic project data),2025-09-18,Utility Bill,ATM,0.0,24996.93,393899.88
+IB2025000844,CUST0209,Rahul Das,Indian Bank (synthetic project data),2025-09-18,Salary Credit,IMPS,0.0,15865.2,35629.84
+IB2025000661,CUST0104,Rohan Patel,Indian Bank (synthetic project data),2025-09-20,ATM Withdrawal,ATM,15365.91,0.0,172469.12
+IB2025000393,CUST0219,Pooja Shah,Indian Bank (synthetic project data),2025-09-20,Shopping Payment,Internet Banking,3395.27,0.0,381364.76
+IB2025000091,CUST0047,Pooja Shah,Indian Bank (synthetic project data),2025-09-20,NEFT Transfer,NEFT,21296.18,0.0,399118.35
+IB2025000627,CUST0176,Priya Kumar,Indian Bank (synthetic project data),2025-09-21,Salary Credit,IMPS,0.0,37034.51,482320.56
+IB2025000952,CUST0104,Ananya Singh,Indian Bank (synthetic project data),2025-09-21,NEFT Transfer,IMPS,21124.13,0.0,362875.05
+IB2025000178,CUST0084,Surya Prakash,Indian Bank (synthetic project data),2025-09-22,Mobile Recharge,UPI,7894.19,0.0,441787.75
+IB2025000018,CUST0117,Aarav Sharma,Indian Bank (synthetic project data),2025-09-22,Utility Bill,Branch,10953.92,0.0,381219.14
+IB2025000092,CUST0226,Rahul Das,Indian Bank (synthetic project data),2025-09-22,Cash Deposit,UPI,14964.45,0.0,258797.0
+IB2025000852,CUST0197,Divya Menon,Indian Bank (synthetic project data),2025-09-22,NEFT Transfer,ATM,11572.04,0.0,277683.26
+IB2025000641,CUST0122,Sanjay Gupta,Indian Bank (synthetic project data),2025-09-23,Shopping Payment,ATM,23295.2,0.0,447263.81
+IB2025000805,CUST0170,Rohan Patel,Indian Bank (synthetic project data),2025-09-23,Mobile Recharge,IMPS,6018.43,0.0,58047.11
+IB2025000880,CUST0041,Ishita Roy,Indian Bank (synthetic project data),2025-09-23,Salary Credit,Branch,7484.76,0.0,485097.79
+IB2025000936,CUST0191,Ananya Singh,Indian Bank (synthetic project data),2025-09-23,NEFT Transfer,ATM,7721.4,0.0,428550.79
+IB2025000312,CUST0202,Aditya Bose,Indian Bank (synthetic project data),2025-09-24,Shopping Payment,Internet Banking,0.0,40444.88,208745.99
+IB2025000811,CUST0157,Aditya Bose,Indian Bank (synthetic project data),2025-09-24,Interest Credit,ATM,0.0,35172.26,426400.08
+IB2025000126,CUST0097,Manoj Verma,Indian Bank (synthetic project data),2025-09-24,Shopping Payment,ATM,19107.39,0.0,490406.54
+IB2025000340,CUST0215,Rohan Patel,Indian Bank (synthetic project data),2025-09-25,Shopping Payment,Branch,11011.64,0.0,384733.82
+IB2025000306,CUST0225,Ananya Singh,Indian Bank (synthetic project data),2025-09-25,UPI Payment,Internet Banking,4833.74,0.0,210201.06
+IB2025000383,CUST0222,Ananya Singh,Indian Bank (synthetic project data),2025-09-26,NEFT Transfer,ATM,0.0,5675.49,405540.66
+IB2025000497,CUST0078,Aditya Bose,Indian Bank (synthetic project data),2025-09-26,Mobile Recharge,IMPS,5572.49,0.0,292659.09
+IB2025000202,CUST0170,Karthik Raj,Indian Bank (synthetic project data),2025-09-27,Salary Credit,Branch,16452.96,0.0,354708.17
+IB2025000658,CUST0051,Surya Prakash,Indian Bank (synthetic project data),2025-09-27,Mobile Recharge,Internet Banking,0.0,57805.44,324916.34
+IB2025000325,CUST0126,Meera Nair,Indian Bank (synthetic project data),2025-09-28,Cash Deposit,Internet Banking,18049.79,0.0,478661.21
+IB2025000735,CUST0129,Rahul Das,Indian Bank (synthetic project data),2025-09-28,UPI Payment,Internet Banking,7662.81,0.0,129582.0
+IB2025000373,CUST0209,Divya Menon,Indian Bank (synthetic project data),2025-09-28,Mobile Recharge,Branch,0.0,37233.08,43291.23
+IB2025000361,CUST0145,Karthik Raj,Indian Bank (synthetic project data),2025-09-29,Shopping Payment,IMPS,15375.05,0.0,53866.33
+IB2025000689,CUST0203,Ananya Singh,Indian Bank (synthetic project data),2025-09-30,Salary Credit,IMPS,0.0,42229.02,117104.64
+IB2025000445,CUST0089,Surya Prakash,Indian Bank (synthetic project data),2025-10-01,Cash Deposit,NEFT,19568.66,0.0,194802.26
+IB2025000691,CUST0011,Pooja Shah,Indian Bank (synthetic project data),2025-10-01,IMPS Transfer,Branch,0.0,15416.43,148062.58
+IB2025000851,CUST0015,Rohan Patel,Indian Bank (synthetic project data),2025-10-01,Shopping Payment,Branch,7675.28,0.0,426817.7
+IB2025000603,CUST0226,Priya Kumar,Indian Bank (synthetic project data),2025-10-02,UPI Payment,Internet Banking,22959.86,0.0,162711.48
+IB2025000360,CUST0153,Rohan Patel,Indian Bank (synthetic project data),2025-10-02,ATM Withdrawal,ATM,0.0,48831.67,329143.22
+IB2025000350,CUST0161,Pooja Shah,Indian Bank (synthetic project data),2025-10-02,Mobile Recharge,Branch,6277.76,0.0,98578.56
+IB2025000657,CUST0208,Rahul Das,Indian Bank (synthetic project data),2025-10-02,Shopping Payment,UPI,14003.66,0.0,206468.69
+IB2025000296,CUST0016,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-03,Cash Deposit,ATM,14169.59,0.0,286778.14
+IB2025000931,CUST0211,Vikram Iyer,Indian Bank (synthetic project data),2025-10-03,UPI Payment,ATM,14564.16,0.0,259567.2
+IB2025000663,CUST0116,Sneha Joshi,Indian Bank (synthetic project data),2025-10-03,Salary Credit,ATM,0.0,31495.67,427251.71
+IB2025000261,CUST0103,Priya Kumar,Indian Bank (synthetic project data),2025-10-05,Mobile Recharge,Branch,0.0,22273.27,98133.0
+IB2025000229,CUST0113,Karthik Raj,Indian Bank (synthetic project data),2025-10-06,Shopping Payment,ATM,10090.54,0.0,248605.41
+IB2025000491,CUST0163,Ananya Singh,Indian Bank (synthetic project data),2025-10-06,UPI Payment,ATM,0.0,30555.02,186860.91
+IB2025000904,CUST0013,Vikram Iyer,Indian Bank (synthetic project data),2025-10-08,Shopping Payment,NEFT,0.0,46300.11,228507.34
+IB2025000932,CUST0236,Meera Nair,Indian Bank (synthetic project data),2025-10-08,ATM Withdrawal,ATM,0.0,25013.67,78122.9
+IB2025000199,CUST0199,Sanjay Gupta,Indian Bank (synthetic project data),2025-10-08,Mobile Recharge,UPI,0.0,23551.29,394824.24
+IB2025000989,CUST0140,Sneha Joshi,Indian Bank (synthetic project data),2025-10-09,IMPS Transfer,Internet Banking,0.0,7221.2,123927.0
+IB2025000605,CUST0168,Rohan Patel,Indian Bank (synthetic project data),2025-10-10,Cash Deposit,NEFT,0.0,22235.16,188788.06
+IB2025000427,CUST0027,Arjun Reddy,Indian Bank (synthetic project data),2025-10-10,Cash Deposit,ATM,0.0,43769.29,210488.11
+IB2025000465,CUST0242,Rohan Patel,Indian Bank (synthetic project data),2025-10-10,Shopping Payment,Branch,2013.81,0.0,492652.77
+IB2025000622,CUST0081,Sneha Joshi,Indian Bank (synthetic project data),2025-10-10,Shopping Payment,UPI,0.0,41422.12,78234.51
+IB2025000303,CUST0170,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-11,Salary Credit,Internet Banking,17115.85,0.0,430283.0
+IB2025000759,CUST0086,Surya Prakash,Indian Bank (synthetic project data),2025-10-12,Salary Credit,ATM,4396.49,0.0,434540.45
+IB2025000060,CUST0158,Surya Prakash,Indian Bank (synthetic project data),2025-10-12,Utility Bill,IMPS,0.0,54216.93,274420.67
+IB2025000132,CUST0228,Pooja Shah,Indian Bank (synthetic project data),2025-10-12,Cash Deposit,UPI,0.0,37794.55,309112.27
+IB2025000814,CUST0055,Meera Nair,Indian Bank (synthetic project data),2025-10-13,IMPS Transfer,ATM,10964.47,0.0,94925.19
+IB2025000472,CUST0068,Manoj Verma,Indian Bank (synthetic project data),2025-10-13,IMPS Transfer,NEFT,11227.52,0.0,113894.9
+IB2025000850,CUST0124,Ananya Singh,Indian Bank (synthetic project data),2025-10-14,Mobile Recharge,Branch,0.0,49169.61,467586.05
+IB2025000290,CUST0245,Sanjay Gupta,Indian Bank (synthetic project data),2025-10-14,Utility Bill,Branch,18880.85,0.0,361718.38
+IB2025000378,CUST0127,Sneha Joshi,Indian Bank (synthetic project data),2025-10-14,IMPS Transfer,IMPS,0.0,30573.56,355361.04
+IB2025000853,CUST0100,Ananya Singh,Indian Bank (synthetic project data),2025-10-14,Shopping Payment,IMPS,0.0,18282.79,43346.38
+IB2025000815,CUST0107,Vikram Iyer,Indian Bank (synthetic project data),2025-10-14,Utility Bill,Internet Banking,0.0,21937.13,63649.03
+IB2025000948,CUST0080,Manoj Verma,Indian Bank (synthetic project data),2025-10-15,NEFT Transfer,Branch,15069.68,0.0,204233.83
+IB2025000736,CUST0008,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-16,Utility Bill,ATM,0.0,48984.09,76702.38
+IB2025000375,CUST0099,Sneha Joshi,Indian Bank (synthetic project data),2025-10-16,Salary Credit,IMPS,3576.0,0.0,318115.32
+IB2025000993,CUST0238,Rahul Das,Indian Bank (synthetic project data),2025-10-16,Utility Bill,UPI,24024.59,0.0,468224.88
+IB2025000339,CUST0099,Vikram Iyer,Indian Bank (synthetic project data),2025-10-17,ATM Withdrawal,Branch,0.0,32663.46,372982.82
+IB2025000075,CUST0108,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-17,Cash Deposit,Branch,0.0,57229.11,449007.86
+IB2025000834,CUST0223,Sneha Joshi,Indian Bank (synthetic project data),2025-10-17,UPI Payment,NEFT,3756.97,0.0,463684.04
+IB2025000563,CUST0205,Divya Menon,Indian Bank (synthetic project data),2025-10-17,UPI Payment,IMPS,19640.03,0.0,194389.77
+IB2025000223,CUST0100,Nithya Krishnan,Indian Bank (synthetic project data),2025-10-17,Utility Bill,Internet Banking,0.0,3090.3,9104.87
+IB2025000898,CUST0245,Rohan Patel,Indian Bank (synthetic project data),2025-10-18,ATM Withdrawal,ATM,0.0,17658.17,138695.43
+IB2025000078,CUST0022,Sneha Joshi,Indian Bank (synthetic project data),2025-10-19,Salary Credit,IMPS,16625.54,0.0,91682.78
+IB2025000355,CUST0052,Surya Prakash,Indian Bank (synthetic project data),2025-10-19,Cash Deposit,ATM,23311.87,0.0,341174.6
+IB2025000737,CUST0098,Aditya Bose,Indian Bank (synthetic project data),2025-10-19,Mobile Recharge,Internet Banking,0.0,5723.8,343575.13
+IB2025000648,CUST0118,Ananya Singh,Indian Bank (synthetic project data),2025-10-19,Cash Deposit,IMPS,0.0,46666.29,158509.98
+IB2025000013,CUST0037,Rahul Das,Indian Bank (synthetic project data),2025-10-20,Salary Credit,ATM,0.0,38749.69,372749.5
+IB2025000148,CUST0117,Nithya Krishnan,Indian Bank (synthetic project data),2025-10-20,Utility Bill,Branch,13483.82,0.0,191131.72
+IB2025000441,CUST0110,Meera Nair,Indian Bank (synthetic project data),2025-10-20,Shopping Payment,ATM,9660.83,0.0,454243.8
+IB2025000752,CUST0100,Aditya Bose,Indian Bank (synthetic project data),2025-10-20,UPI Payment,ATM,0.0,2835.47,146298.5
+IB2025000392,CUST0055,Pooja Shah,Indian Bank (synthetic project data),2025-10-21,Utility Bill,NEFT,10826.63,0.0,414343.46
+IB2025000753,CUST0074,Manoj Verma,Indian Bank (synthetic project data),2025-10-21,Salary Credit,IMPS,0.0,46533.78,147915.44
+IB2025000237,CUST0246,Ananya Singh,Indian Bank (synthetic project data),2025-10-21,UPI Payment,Internet Banking,7075.44,0.0,93837.98
+IB2025000951,CUST0190,Meera Nair,Indian Bank (synthetic project data),2025-10-23,ATM Withdrawal,NEFT,0.0,58665.47,487628.54
+IB2025000012,CUST0242,Surya Prakash,Indian Bank (synthetic project data),2025-10-23,Shopping Payment,ATM,5392.92,0.0,328063.89
+IB2025000972,CUST0246,Rohan Patel,Indian Bank (synthetic project data),2025-10-23,Mobile Recharge,UPI,0.0,37662.05,296340.46
+IB2025000975,CUST0172,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-23,Salary Credit,UPI,12956.93,0.0,314294.12
+IB2025000292,CUST0228,Divya Menon,Indian Bank (synthetic project data),2025-10-25,ATM Withdrawal,Internet Banking,0.0,55424.81,458149.06
+IB2025000077,CUST0236,Vikram Iyer,Indian Bank (synthetic project data),2025-10-25,Mobile Recharge,Branch,0.0,50510.09,14456.26
+IB2025000332,CUST0179,Kavya Rao,Indian Bank (synthetic project data),2025-10-25,Utility Bill,Internet Banking,6193.72,0.0,414202.98
+IB2025000121,CUST0234,Ananya Singh,Indian Bank (synthetic project data),2025-10-26,IMPS Transfer,UPI,24807.59,0.0,324207.13
+IB2025000488,CUST0223,Nithya Krishnan,Indian Bank (synthetic project data),2025-10-26,UPI Payment,Branch,0.0,45689.85,395953.71
+IB2025000636,CUST0129,Divya Menon,Indian Bank (synthetic project data),2025-10-26,Shopping Payment,UPI,14031.97,0.0,401668.18
+IB2025000886,CUST0076,Kavya Rao,Indian Bank (synthetic project data),2025-10-26,ATM Withdrawal,UPI,0.0,8396.36,240411.69
+IB2025000426,CUST0163,Aarav Sharma,Indian Bank (synthetic project data),2025-10-27,Shopping Payment,UPI,13607.4,0.0,379705.65
+IB2025000151,CUST0010,Divya Menon,Indian Bank (synthetic project data),2025-10-27,IMPS Transfer,UPI,1276.87,0.0,49498.81
+IB2025000920,CUST0045,Lakshmi Pillai,Indian Bank (synthetic project data),2025-10-27,IMPS Transfer,Internet Banking,0.0,16763.07,284390.25
+IB2025000059,CUST0142,Vikram Iyer,Indian Bank (synthetic project data),2025-10-27,NEFT Transfer,IMPS,17475.63,0.0,332799.79
+IB2025000536,CUST0168,Sanjay Gupta,Indian Bank (synthetic project data),2025-10-28,UPI Payment,Internet Banking,1723.9,0.0,434297.8
+IB2025000671,CUST0001,Aditya Bose,Indian Bank (synthetic project data),2025-10-29,Salary Credit,NEFT,7693.79,0.0,144094.36
+IB2025000168,CUST0107,Ananya Singh,Indian Bank (synthetic project data),2025-10-29,Shopping Payment,IMPS,11419.45,0.0,156949.26
+IB2025000775,CUST0207,Arjun Reddy,Indian Bank (synthetic project data),2025-10-29,UPI Payment,Internet Banking,8838.8,0.0,101392.38
+IB2025000784,CUST0096,Manoj Verma,Indian Bank (synthetic project data),2025-10-29,Utility Bill,ATM,21944.66,0.0,263025.11
+IB2025000780,CUST0134,Divya Menon,Indian Bank (synthetic project data),2025-10-29,Mobile Recharge,Internet Banking,0.0,3833.33,339420.61
+IB2025000864,CUST0043,Manoj Verma,Indian Bank (synthetic project data),2025-10-30,NEFT Transfer,Branch,9342.69,0.0,21308.75
+IB2025000145,CUST0139,Nithya Krishnan,Indian Bank (synthetic project data),2025-10-30,Cash Deposit,Branch,3434.17,0.0,456830.0
+IB2025000550,CUST0173,Surya Prakash,Indian Bank (synthetic project data),2025-10-30,ATM Withdrawal,IMPS,15886.03,0.0,229236.55
+IB2025000215,CUST0061,Karthik Raj,Indian Bank (synthetic project data),2025-10-30,ATM Withdrawal,NEFT,12624.88,0.0,113044.84
+IB2025000738,CUST0249,Divya Menon,Indian Bank (synthetic project data),2025-10-31,Mobile Recharge,NEFT,3945.82,0.0,225135.42
+IB2025000421,CUST0235,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-01,Utility Bill,UPI,6319.34,0.0,286196.45
+IB2025000875,CUST0084,Kavya Rao,Indian Bank (synthetic project data),2025-11-01,ATM Withdrawal,NEFT,16969.79,0.0,114663.25
+IB2025000481,CUST0146,Surya Prakash,Indian Bank (synthetic project data),2025-11-01,Mobile Recharge,UPI,3868.61,0.0,462539.16
+IB2025000475,CUST0240,Pooja Shah,Indian Bank (synthetic project data),2025-11-01,Mobile Recharge,ATM,0.0,41380.54,238654.88
+IB2025000444,CUST0135,Kavya Rao,Indian Bank (synthetic project data),2025-11-01,Cash Deposit,UPI,22133.62,0.0,494712.4
+IB2025000462,CUST0127,Karthik Raj,Indian Bank (synthetic project data),2025-11-01,Shopping Payment,Branch,0.0,53130.84,188298.44
+IB2025000080,CUST0005,Lakshmi Pillai,Indian Bank (synthetic project data),2025-11-02,UPI Payment,NEFT,2185.37,0.0,112886.86
+IB2025000533,CUST0029,Vikram Iyer,Indian Bank (synthetic project data),2025-11-02,UPI Payment,ATM,0.0,47916.12,52752.84
+IB2025000675,CUST0205,Ishita Roy,Indian Bank (synthetic project data),2025-11-03,Utility Bill,NEFT,0.0,31238.3,324580.06
+IB2025000918,CUST0214,Surya Prakash,Indian Bank (synthetic project data),2025-11-04,Mobile Recharge,UPI,0.0,25144.53,72676.0
+IB2025000916,CUST0073,Nithya Krishnan,Indian Bank (synthetic project data),2025-11-05,Shopping Payment,NEFT,9414.85,0.0,488784.29
+IB2025000232,CUST0115,Priya Kumar,Indian Bank (synthetic project data),2025-11-05,Shopping Payment,Branch,11181.12,0.0,499077.15
+IB2025000069,CUST0230,Meera Nair,Indian Bank (synthetic project data),2025-11-05,IMPS Transfer,IMPS,0.0,33098.38,130336.58
+IB2025000164,CUST0233,Manoj Verma,Indian Bank (synthetic project data),2025-11-05,ATM Withdrawal,UPI,0.0,29671.0,161733.8
+IB2025000174,CUST0210,Ishita Roy,Indian Bank (synthetic project data),2025-11-06,Mobile Recharge,Internet Banking,0.0,58485.52,321706.88
+IB2025000221,CUST0147,Sneha Joshi,Indian Bank (synthetic project data),2025-11-06,Salary Credit,Internet Banking,8917.48,0.0,334439.24
+IB2025000949,CUST0216,Pooja Shah,Indian Bank (synthetic project data),2025-11-06,Shopping Payment,ATM,1879.79,0.0,7380.14
+IB2025000723,CUST0023,Ananya Singh,Indian Bank (synthetic project data),2025-11-07,Interest Credit,IMPS,23114.83,0.0,183268.55
+IB2025000836,CUST0070,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-08,Utility Bill,NEFT,16353.84,0.0,401355.86
+IB2025000552,CUST0131,Meera Nair,Indian Bank (synthetic project data),2025-11-08,Mobile Recharge,ATM,0.0,29234.45,365516.84
+IB2025000369,CUST0227,Arjun Reddy,Indian Bank (synthetic project data),2025-11-08,IMPS Transfer,Branch,18474.1,0.0,215346.87
+IB2025000716,CUST0223,Kavya Rao,Indian Bank (synthetic project data),2025-11-09,Mobile Recharge,UPI,21715.6,0.0,317309.66
+IB2025000686,CUST0071,Surya Prakash,Indian Bank (synthetic project data),2025-11-09,ATM Withdrawal,IMPS,4308.9,0.0,394782.75
+IB2025000455,CUST0167,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-10,Salary Credit,Internet Banking,0.0,57659.39,484402.71
+IB2025000594,CUST0174,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-10,IMPS Transfer,IMPS,9083.23,0.0,223233.63
+IB2025000674,CUST0189,Karthik Raj,Indian Bank (synthetic project data),2025-11-10,Interest Credit,ATM,4207.25,0.0,132227.16
+IB2025000679,CUST0039,Aarav Sharma,Indian Bank (synthetic project data),2025-11-11,IMPS Transfer,ATM,0.0,14352.22,171614.51
+IB2025000071,CUST0070,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-12,Shopping Payment,Branch,7250.34,0.0,41208.25
+IB2025000211,CUST0098,Aditya Bose,Indian Bank (synthetic project data),2025-11-12,Cash Deposit,IMPS,7152.03,0.0,483167.81
+IB2025000945,CUST0214,Nithya Krishnan,Indian Bank (synthetic project data),2025-11-12,Interest Credit,IMPS,0.0,6885.81,107922.73
+IB2025000193,CUST0078,Rahul Das,Indian Bank (synthetic project data),2025-11-12,Mobile Recharge,UPI,11138.87,0.0,176619.17
+IB2025000062,CUST0122,Meera Nair,Indian Bank (synthetic project data),2025-11-13,ATM Withdrawal,NEFT,5460.48,0.0,258210.55
+IB2025000565,CUST0181,Nithya Krishnan,Indian Bank (synthetic project data),2025-11-13,Mobile Recharge,Branch,0.0,54733.44,369486.57
+IB2025000725,CUST0237,Kavya Rao,Indian Bank (synthetic project data),2025-11-13,NEFT Transfer,Internet Banking,0.0,26707.57,187536.57
+IB2025000960,CUST0143,Divya Menon,Indian Bank (synthetic project data),2025-11-13,Salary Credit,IMPS,966.57,0.0,215909.88
+IB2025000345,CUST0034,Rohan Patel,Indian Bank (synthetic project data),2025-11-14,Salary Credit,IMPS,6853.7,0.0,224972.99
+IB2025000240,CUST0248,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-14,Shopping Payment,Internet Banking,0.0,48725.54,33404.6
+IB2025000379,CUST0008,Kavya Rao,Indian Bank (synthetic project data),2025-11-14,Utility Bill,UPI,2204.37,0.0,138151.61
+IB2025000363,CUST0174,Surya Prakash,Indian Bank (synthetic project data),2025-11-15,Cash Deposit,ATM,11657.12,0.0,173138.73
+IB2025000835,CUST0136,Priya Kumar,Indian Bank (synthetic project data),2025-11-16,ATM Withdrawal,Branch,7994.86,0.0,319074.65
+IB2025000192,CUST0165,Ishita Roy,Indian Bank (synthetic project data),2025-11-16,Shopping Payment,Internet Banking,0.0,52981.87,158753.31
+IB2025000236,CUST0196,Rohan Patel,Indian Bank (synthetic project data),2025-11-17,Mobile Recharge,ATM,0.0,22634.8,265200.48
+IB2025000756,CUST0230,Arjun Reddy,Indian Bank (synthetic project data),2025-11-17,IMPS Transfer,UPI,11423.97,0.0,125791.06
+IB2025000196,CUST0049,Sanjay Gupta,Indian Bank (synthetic project data),2025-11-17,Mobile Recharge,IMPS,0.0,34513.57,251182.28
+IB2025000856,CUST0087,Priya Kumar,Indian Bank (synthetic project data),2025-11-17,Shopping Payment,Internet Banking,0.0,1476.89,22364.45
+IB2025000433,CUST0138,Nithya Krishnan,Indian Bank (synthetic project data),2025-11-17,NEFT Transfer,IMPS,10251.84,0.0,154845.55
+IB2025000709,CUST0186,Priya Kumar,Indian Bank (synthetic project data),2025-11-18,Utility Bill,Branch,10017.7,0.0,9134.92
+IB2025000809,CUST0148,Manoj Verma,Indian Bank (synthetic project data),2025-11-18,NEFT Transfer,ATM,9841.07,0.0,341076.88
+IB2025000512,CUST0044,Surya Prakash,Indian Bank (synthetic project data),2025-11-18,Salary Credit,IMPS,19065.65,0.0,392820.24
+IB2025000034,CUST0188,Lakshmi Pillai,Indian Bank (synthetic project data),2025-11-19,IMPS Transfer,ATM,17460.3,0.0,95759.04
+IB2025000253,CUST0113,Sneha Joshi,Indian Bank (synthetic project data),2025-11-19,IMPS Transfer,IMPS,1638.84,0.0,102807.48
+IB2025000749,CUST0199,Priya Kumar,Indian Bank (synthetic project data),2025-11-21,Mobile Recharge,Internet Banking,0.0,25939.56,412339.93
+IB2025000088,CUST0188,Aditya Bose,Indian Bank (synthetic project data),2025-11-22,Utility Bill,Branch,0.0,26411.49,404291.41
+IB2025000274,CUST0091,Rahul Das,Indian Bank (synthetic project data),2025-11-22,Mobile Recharge,IMPS,0.0,20868.46,96939.82
+IB2025000788,CUST0030,Aarav Sharma,Indian Bank (synthetic project data),2025-11-22,Utility Bill,UPI,21640.53,0.0,343839.11
+IB2025000978,CUST0176,Divya Menon,Indian Bank (synthetic project data),2025-11-23,Interest Credit,IMPS,3889.25,0.0,160007.94
+IB2025000138,CUST0041,Rohan Patel,Indian Bank (synthetic project data),2025-11-25,IMPS Transfer,NEFT,0.0,40817.85,493838.2
+IB2025000243,CUST0157,Rohan Patel,Indian Bank (synthetic project data),2025-11-26,ATM Withdrawal,NEFT,0.0,33322.99,199681.83
+IB2025000101,CUST0248,Priya Kumar,Indian Bank (synthetic project data),2025-11-27,Utility Bill,IMPS,8616.54,0.0,57929.48
+IB2025000321,CUST0053,Nithya Krishnan,Indian Bank (synthetic project data),2025-11-27,Shopping Payment,IMPS,0.0,19553.88,23812.01
+IB2025000471,CUST0024,Lakshmi Pillai,Indian Bank (synthetic project data),2025-11-28,Interest Credit,ATM,16576.85,0.0,186139.24
+IB2025000217,CUST0181,Pooja Shah,Indian Bank (synthetic project data),2025-11-28,IMPS Transfer,Branch,0.0,8758.17,3620.35
+IB2025000613,CUST0213,Sneha Joshi,Indian Bank (synthetic project data),2025-11-28,Mobile Recharge,ATM,0.0,10648.72,397513.42
+IB2025000420,CUST0046,Priya Kumar,Indian Bank (synthetic project data),2025-11-28,Cash Deposit,Internet Banking,23017.63,0.0,370592.25
+IB2025000281,CUST0002,Lakshmi Pillai,Indian Bank (synthetic project data),2025-11-28,Salary Credit,IMPS,19303.54,0.0,326793.51
+IB2025000265,CUST0229,Aditya Bose,Indian Bank (synthetic project data),2025-11-29,Salary Credit,NEFT,3851.18,0.0,465753.0
+IB2025000028,CUST0025,Sneha Joshi,Indian Bank (synthetic project data),2025-11-29,Shopping Payment,IMPS,0.0,11829.39,206140.04
+IB2025000867,CUST0164,Rahul Das,Indian Bank (synthetic project data),2025-11-30,Cash Deposit,IMPS,0.0,12766.53,206603.63
+IB2025000282,CUST0247,Divya Menon,Indian Bank (synthetic project data),2025-11-30,Shopping Payment,NEFT,5106.48,0.0,323303.06
+IB2025000763,CUST0154,Ishita Roy,Indian Bank (synthetic project data),2025-11-30,UPI Payment,ATM,11130.6,0.0,441201.76
+IB2025000023,CUST0136,Ishita Roy,Indian Bank (synthetic project data),2025-11-30,Interest Credit,ATM,0.0,10325.05,464527.83
+IB2025000036,CUST0041,Priya Kumar,Indian Bank (synthetic project data),2025-12-01,Cash Deposit,UPI,21340.09,0.0,425819.93
+IB2025000620,CUST0022,Divya Menon,Indian Bank (synthetic project data),2025-12-01,Mobile Recharge,Branch,0.0,54650.08,204914.71
+IB2025000244,CUST0211,Surya Prakash,Indian Bank (synthetic project data),2025-12-02,ATM Withdrawal,ATM,19263.74,0.0,486217.49
+IB2025000912,CUST0142,Ananya Singh,Indian Bank (synthetic project data),2025-12-02,Utility Bill,UPI,0.0,8795.69,201413.33
+IB2025000359,CUST0237,Sneha Joshi,Indian Bank (synthetic project data),2025-12-02,Cash Deposit,UPI,13429.03,0.0,395569.74
+IB2025000935,CUST0036,Manoj Verma,Indian Bank (synthetic project data),2025-12-02,Mobile Recharge,Branch,17322.61,0.0,382031.18
+IB2025000463,CUST0195,Kavya Rao,Indian Bank (synthetic project data),2025-12-02,Salary Credit,IMPS,0.0,34894.3,37780.99
+IB2025000804,CUST0209,Surya Prakash,Indian Bank (synthetic project data),2025-12-03,Interest Credit,IMPS,8616.75,0.0,284038.39
+IB2025000779,CUST0222,Lakshmi Pillai,Indian Bank (synthetic project data),2025-12-03,Shopping Payment,IMPS,11596.36,0.0,392210.53
+IB2025000619,CUST0151,Surya Prakash,Indian Bank (synthetic project data),2025-12-03,ATM Withdrawal,IMPS,0.0,23183.57,67807.67
+IB2025000685,CUST0228,Priya Kumar,Indian Bank (synthetic project data),2025-12-03,NEFT Transfer,UPI,0.0,12324.06,118746.95
+IB2025000786,CUST0088,Pooja Shah,Indian Bank (synthetic project data),2025-12-04,Cash Deposit,NEFT,0.0,9667.63,387991.07
+IB2025000140,CUST0092,Surya Prakash,Indian Bank (synthetic project data),2025-12-04,Utility Bill,Internet Banking,9626.9,0.0,148320.15
+IB2025000466,CUST0168,Meera Nair,Indian Bank (synthetic project data),2025-12-04,Mobile Recharge,IMPS,0.0,26163.74,79394.78
+IB2025000714,CUST0177,Surya Prakash,Indian Bank (synthetic project data),2025-12-04,ATM Withdrawal,Branch,20668.78,0.0,321485.06
+IB2025000180,CUST0056,Aditya Bose,Indian Bank (synthetic project data),2025-12-05,ATM Withdrawal,NEFT,10442.47,0.0,215526.9
+IB2025000983,CUST0230,Rohan Patel,Indian Bank (synthetic project data),2025-12-05,Shopping Payment,Branch,0.0,3791.97,149691.61
+IB2025000655,CUST0146,Priya Kumar,Indian Bank (synthetic project data),2025-12-06,Interest Credit,UPI,14119.14,0.0,345581.04
+IB2025000076,CUST0008,Karthik Raj,Indian Bank (synthetic project data),2025-12-06,Shopping Payment,Internet Banking,10980.52,0.0,339891.8
+IB2025000602,CUST0060,Priya Kumar,Indian Bank (synthetic project data),2025-12-06,NEFT Transfer,Branch,6719.27,0.0,453955.32
+IB2025000915,CUST0242,Priya Kumar,Indian Bank (synthetic project data),2025-12-08,Shopping Payment,IMPS,15186.18,0.0,74825.02
+IB2025000115,CUST0105,Sanjay Gupta,Indian Bank (synthetic project data),2025-12-08,Shopping Payment,Internet Banking,0.0,28465.62,53195.34
+IB2025000925,CUST0191,Nithya Krishnan,Indian Bank (synthetic project data),2025-12-09,Mobile Recharge,IMPS,0.0,4470.13,283221.72
+IB2025000349,CUST0071,Sneha Joshi,Indian Bank (synthetic project data),2025-12-09,Utility Bill,IMPS,4305.1,0.0,391550.65
+IB2025000947,CUST0143,Priya Kumar,Indian Bank (synthetic project data),2025-12-10,ATM Withdrawal,NEFT,0.0,42431.49,247362.69
+IB2025000963,CUST0174,Nithya Krishnan,Indian Bank (synthetic project data),2025-12-10,Utility Bill,NEFT,9538.27,0.0,31650.56
+IB2025000526,CUST0124,Sanjay Gupta,Indian Bank (synthetic project data),2025-12-11,NEFT Transfer,UPI,0.0,41448.13,7361.95
+IB2025000543,CUST0104,Sneha Joshi,Indian Bank (synthetic project data),2025-12-11,UPI Payment,Branch,0.0,1557.26,275000.3
+IB2025000230,CUST0069,Rohan Patel,Indian Bank (synthetic project data),2025-12-11,Interest Credit,UPI,19962.68,0.0,215872.97
+IB2025000220,CUST0132,Surya Prakash,Indian Bank (synthetic project data),2025-12-12,NEFT Transfer,Internet Banking,558.42,0.0,72644.84
+IB2025000407,CUST0228,Aarav Sharma,Indian Bank (synthetic project data),2025-12-12,Shopping Payment,NEFT,0.0,4725.21,66859.46
+IB2025000762,CUST0226,Pooja Shah,Indian Bank (synthetic project data),2025-12-12,NEFT Transfer,ATM,292.9,0.0,294842.3
+IB2025000651,CUST0193,Nithya Krishnan,Indian Bank (synthetic project data),2025-12-12,Shopping Payment,IMPS,10564.46,0.0,140535.14
+IB2025000184,CUST0091,Rohan Patel,Indian Bank (synthetic project data),2025-12-13,Interest Credit,Internet Banking,16751.0,0.0,22108.83
+IB2025000410,CUST0103,Rohan Patel,Indian Bank (synthetic project data),2025-12-13,Cash Deposit,Branch,0.0,25702.73,308407.48
+IB2025000942,CUST0130,Surya Prakash,Indian Bank (synthetic project data),2025-12-13,ATM Withdrawal,UPI,0.0,36970.91,409973.67
+IB2025000718,CUST0173,Karthik Raj,Indian Bank (synthetic project data),2025-12-14,IMPS Transfer,Branch,0.0,9615.25,288052.17
+IB2025000600,CUST0247,Ishita Roy,Indian Bank (synthetic project data),2025-12-14,Salary Credit,Branch,6086.19,0.0,71044.98
+IB2025000516,CUST0211,Priya Kumar,Indian Bank (synthetic project data),2025-12-14,Utility Bill,NEFT,4300.45,0.0,228507.23
+IB2025000249,CUST0149,Vikram Iyer,Indian Bank (synthetic project data),2025-12-14,Salary Credit,Internet Banking,0.0,35712.6,312615.11
+IB2025000895,CUST0017,Nithya Krishnan,Indian Bank (synthetic project data),2025-12-14,Shopping Payment,IMPS,0.0,16990.15,243627.23
+IB2025000571,CUST0104,Rohan Patel,Indian Bank (synthetic project data),2025-12-15,Shopping Payment,ATM,13645.54,0.0,441814.97
+IB2025000019,CUST0077,Aditya Bose,Indian Bank (synthetic project data),2025-12-16,Mobile Recharge,ATM,0.0,52295.85,77266.8
+IB2025000267,CUST0077,Pooja Shah,Indian Bank (synthetic project data),2025-12-17,UPI Payment,NEFT,17762.18,0.0,166288.56
+IB2025000802,CUST0204,Ananya Singh,Indian Bank (synthetic project data),2025-12-17,Shopping Payment,Branch,20466.19,0.0,325076.25
+IB2025000818,CUST0099,Nithya Krishnan,Indian Bank (synthetic project data),2025-12-17,NEFT Transfer,ATM,20528.77,0.0,212961.16
+IB2025000588,CUST0158,Rahul Das,Indian Bank (synthetic project data),2025-12-19,NEFT Transfer,UPI,4722.22,0.0,91497.63
+IB2025000162,CUST0057,Ishita Roy,Indian Bank (synthetic project data),2025-12-19,UPI Payment,Internet Banking,11382.33,0.0,391830.27
+IB2025000214,CUST0243,Kavya Rao,Indian Bank (synthetic project data),2025-12-19,IMPS Transfer,NEFT,11021.19,0.0,465305.49
+IB2025000495,CUST0197,Aarav Sharma,Indian Bank (synthetic project data),2025-12-19,IMPS Transfer,ATM,19540.55,0.0,324038.41
+IB2025000258,CUST0128,Aarav Sharma,Indian Bank (synthetic project data),2025-12-20,ATM Withdrawal,IMPS,21995.03,0.0,253216.79
+IB2025000255,CUST0120,Ananya Singh,Indian Bank (synthetic project data),2025-12-20,Utility Bill,IMPS,8080.03,0.0,124711.52
+IB2025000640,CUST0068,Kavya Rao,Indian Bank (synthetic project data),2025-12-21,Utility Bill,UPI,17565.34,0.0,200066.39
+IB2025000976,CUST0055,Manoj Verma,Indian Bank (synthetic project data),2025-12-21,Utility Bill,Internet Banking,0.0,34822.18,266826.95
+IB2025000238,CUST0068,Rahul Das,Indian Bank (synthetic project data),2025-12-22,IMPS Transfer,ATM,14107.57,0.0,498186.19
+IB2025000429,CUST0118,Rohan Patel,Indian Bank (synthetic project data),2025-12-23,Mobile Recharge,UPI,22405.11,0.0,253208.45
+IB2025000517,CUST0228,Vikram Iyer,Indian Bank (synthetic project data),2025-12-23,Shopping Payment,IMPS,8545.2,0.0,180266.19
+IB2025000560,CUST0014,Priya Kumar,Indian Bank (synthetic project data),2025-12-24,NEFT Transfer,NEFT,9614.63,0.0,375342.32
+IB2025000326,CUST0242,Priya Kumar,Indian Bank (synthetic project data),2025-12-25,UPI Payment,IMPS,21190.43,0.0,69608.27
+IB2025000188,CUST0191,Sanjay Gupta,Indian Bank (synthetic project data),2025-12-25,NEFT Transfer,NEFT,21782.53,0.0,389779.82
+IB2025000740,CUST0233,Vikram Iyer,Indian Bank (synthetic project data),2025-12-25,Mobile Recharge,ATM,0.0,26088.83,159430.61
+IB2025000270,CUST0216,Karthik Raj,Indian Bank (synthetic project data),2025-12-25,Salary Credit,Internet Banking,0.0,37374.28,121856.08
+IB2025000537,CUST0145,Kavya Rao,Indian Bank (synthetic project data),2025-12-25,Shopping Payment,Branch,0.0,34810.62,262028.48
+IB2025000986,CUST0061,Ishita Roy,Indian Bank (synthetic project data),2025-12-25,ATM Withdrawal,NEFT,22131.44,0.0,165313.67
+IB2025000222,CUST0135,Lakshmi Pillai,Indian Bank (synthetic project data),2025-12-25,Cash Deposit,Branch,0.0,4526.92,277521.82
+IB2025000896,CUST0137,Lakshmi Pillai,Indian Bank (synthetic project data),2025-12-26,Utility Bill,IMPS,0.0,28474.75,310854.68
+IB2025000372,CUST0100,Ishita Roy,Indian Bank (synthetic project data),2025-12-27,Interest Credit,Branch,0.0,19147.54,58001.8
+IB2025000929,CUST0050,Meera Nair,Indian Bank (synthetic project data),2025-12-28,ATM Withdrawal,Branch,0.0,5071.19,376561.62
+IB2025000733,CUST0248,Manoj Verma,Indian Bank (synthetic project data),2025-12-29,Cash Deposit,Internet Banking,5092.05,0.0,11722.74
+IB2025000676,CUST0219,Rohan Patel,Indian Bank (synthetic project data),2025-12-29,Salary Credit,ATM,0.0,25067.78,145508.05
+IB2025000617,CUST0124,Vikram Iyer,Indian Bank (synthetic project data),2025-12-29,Mobile Recharge,Branch,3070.28,0.0,413933.37
+IB2025000672,CUST0243,Pooja Shah,Indian Bank (synthetic project data),2025-12-30,Utility Bill,UPI,23063.9,0.0,383168.73
+IB2025000670,CUST0139,Kavya Rao,Indian Bank (synthetic project data),2025-12-30,ATM Withdrawal,IMPS,8777.13,0.0,154626.22
+IB2025000371,CUST0118,Ananya Singh,Indian Bank (synthetic project data),2025-12-31,Utility Bill,Internet Banking,8250.73,0.0,431455.64
+IB2025000152,CUST0172,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-01,Interest Credit,Branch,11423.05,0.0,371392.24
+IB2025000577,CUST0054,Arjun Reddy,Indian Bank (synthetic project data),2026-01-01,Interest Credit,UPI,15729.29,0.0,103584.2
+IB2025000089,CUST0212,Surya Prakash,Indian Bank (synthetic project data),2026-01-01,Utility Bill,NEFT,0.0,28159.99,426004.87
+IB2025000696,CUST0175,Pooja Shah,Indian Bank (synthetic project data),2026-01-01,Cash Deposit,ATM,0.0,11797.23,306906.58
+IB2025000014,CUST0230,Surya Prakash,Indian Bank (synthetic project data),2026-01-01,Interest Credit,NEFT,14676.96,0.0,110441.06
+IB2025000380,CUST0145,Pooja Shah,Indian Bank (synthetic project data),2026-01-01,Cash Deposit,Branch,19551.39,0.0,57492.29
+IB2025000962,CUST0219,Meera Nair,Indian Bank (synthetic project data),2026-01-02,Cash Deposit,UPI,11976.39,0.0,196301.02
+IB2025000032,CUST0238,Kavya Rao,Indian Bank (synthetic project data),2026-01-02,Salary Credit,IMPS,0.0,58155.28,243334.92
+IB2025000645,CUST0096,Ishita Roy,Indian Bank (synthetic project data),2026-01-03,Shopping Payment,IMPS,0.0,50956.63,449162.48
+IB2025000118,CUST0133,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-03,Mobile Recharge,IMPS,1496.97,0.0,313078.96
+IB2025000474,CUST0059,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-03,UPI Payment,IMPS,18947.95,0.0,409384.2
+IB2025000241,CUST0041,Meera Nair,Indian Bank (synthetic project data),2026-01-03,Shopping Payment,Branch,7603.92,0.0,112896.57
+IB2025000073,CUST0214,Sneha Joshi,Indian Bank (synthetic project data),2026-01-03,Interest Credit,Branch,1697.3,0.0,473084.95
+IB2025000277,CUST0210,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-04,Salary Credit,NEFT,24506.99,0.0,21991.18
+IB2025000598,CUST0168,Vikram Iyer,Indian Bank (synthetic project data),2026-01-04,Shopping Payment,IMPS,0.0,32610.79,112430.02
+IB2025000930,CUST0217,Divya Menon,Indian Bank (synthetic project data),2026-01-04,Utility Bill,Internet Banking,8007.83,0.0,349285.79
+IB2025000002,CUST0008,Rohan Patel,Indian Bank (synthetic project data),2026-01-05,NEFT Transfer,ATM,10634.76,0.0,253172.29
+IB2025000910,CUST0181,Divya Menon,Indian Bank (synthetic project data),2026-01-05,IMPS Transfer,NEFT,0.0,20211.2,484833.17
+IB2025000903,CUST0034,Divya Menon,Indian Bank (synthetic project data),2026-01-06,Salary Credit,NEFT,7706.45,0.0,114164.19
+IB2025000570,CUST0082,Aditya Bose,Indian Bank (synthetic project data),2026-01-07,NEFT Transfer,ATM,19633.18,0.0,260782.54
+IB2025000356,CUST0242,Arjun Reddy,Indian Bank (synthetic project data),2026-01-07,IMPS Transfer,NEFT,18221.25,0.0,415809.62
+IB2025000096,CUST0070,Divya Menon,Indian Bank (synthetic project data),2026-01-07,Utility Bill,ATM,17615.95,0.0,61207.29
+IB2025000706,CUST0041,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-07,Mobile Recharge,IMPS,8537.19,0.0,466826.46
+IB2025000480,CUST0118,Aarav Sharma,Indian Bank (synthetic project data),2026-01-08,Mobile Recharge,Branch,7013.59,0.0,261758.44
+IB2025000329,CUST0185,Rahul Das,Indian Bank (synthetic project data),2026-01-08,Cash Deposit,NEFT,565.64,0.0,9554.16
+IB2025000334,CUST0180,Meera Nair,Indian Bank (synthetic project data),2026-01-08,ATM Withdrawal,IMPS,15973.19,0.0,422819.57
+IB2025000017,CUST0185,Ananya Singh,Indian Bank (synthetic project data),2026-01-09,Cash Deposit,NEFT,0.0,1183.12,384530.77
+IB2025000262,CUST0116,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-09,Utility Bill,Branch,9750.77,0.0,340518.92
+IB2025000342,CUST0175,Surya Prakash,Indian Bank (synthetic project data),2026-01-09,Interest Credit,UPI,0.0,26194.95,386311.53
+IB2025000625,CUST0148,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-10,Interest Credit,Internet Banking,24714.43,0.0,69896.19
+IB2025000346,CUST0023,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-10,Cash Deposit,UPI,2716.83,0.0,298865.35
+IB2025000781,CUST0176,Sanjay Gupta,Indian Bank (synthetic project data),2026-01-10,Shopping Payment,UPI,5325.32,0.0,484837.03
+IB2025000690,CUST0207,Manoj Verma,Indian Bank (synthetic project data),2026-01-11,NEFT Transfer,UPI,0.0,45523.5,344935.74
+IB2025000741,CUST0048,Sanjay Gupta,Indian Bank (synthetic project data),2026-01-11,Salary Credit,Internet Banking,18028.1,0.0,15712.19
+IB2025000506,CUST0175,Sanjay Gupta,Indian Bank (synthetic project data),2026-01-12,ATM Withdrawal,ATM,0.0,11392.57,178286.41
+IB2025000981,CUST0232,Priya Kumar,Indian Bank (synthetic project data),2026-01-12,NEFT Transfer,ATM,0.0,25610.14,137083.27
+IB2025000171,CUST0106,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-13,Interest Credit,Internet Banking,16799.83,0.0,26671.59
+IB2025000150,CUST0166,Rohan Patel,Indian Bank (synthetic project data),2026-01-13,IMPS Transfer,Internet Banking,15310.54,0.0,151792.9
+IB2025000917,CUST0114,Sneha Joshi,Indian Bank (synthetic project data),2026-01-13,IMPS Transfer,NEFT,18237.16,0.0,82731.38
+IB2025000482,CUST0223,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-14,Shopping Payment,IMPS,0.0,47251.87,132804.18
+IB2025000041,CUST0055,Aditya Bose,Indian Bank (synthetic project data),2026-01-14,Utility Bill,ATM,0.0,4859.01,466696.43
+IB2025000612,CUST0187,Divya Menon,Indian Bank (synthetic project data),2026-01-14,ATM Withdrawal,ATM,0.0,52771.28,225152.48
+IB2025000299,CUST0207,Divya Menon,Indian Bank (synthetic project data),2026-01-14,UPI Payment,IMPS,11640.1,0.0,127974.15
+IB2025000086,CUST0110,Nithya Krishnan,Indian Bank (synthetic project data),2026-01-15,ATM Withdrawal,Branch,0.0,21158.62,324124.08
+IB2025000022,CUST0125,Rohan Patel,Indian Bank (synthetic project data),2026-01-16,Cash Deposit,ATM,0.0,5596.38,65067.34
+IB2025000589,CUST0239,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-16,IMPS Transfer,Internet Banking,0.0,51157.57,275282.64
+IB2025000450,CUST0049,Pooja Shah,Indian Bank (synthetic project data),2026-01-16,Cash Deposit,NEFT,14143.26,0.0,88602.83
+IB2025000704,CUST0192,Lakshmi Pillai,Indian Bank (synthetic project data),2026-01-17,Interest Credit,Internet Banking,0.0,11144.42,53651.58
+IB2025000408,CUST0045,Pooja Shah,Indian Bank (synthetic project data),2026-01-17,ATM Withdrawal,UPI,13726.95,0.0,294094.38
+IB2025000720,CUST0068,Rohan Patel,Indian Bank (synthetic project data),2026-01-18,Interest Credit,Branch,0.0,33115.07,217811.06
+IB2025000847,CUST0005,Pooja Shah,Indian Bank (synthetic project data),2026-01-18,Salary Credit,Internet Banking,0.0,46745.61,320527.3
+IB2025000494,CUST0057,Kavya Rao,Indian Bank (synthetic project data),2026-01-18,NEFT Transfer,NEFT,0.0,13251.96,326142.08
+IB2025000824,CUST0246,Divya Menon,Indian Bank (synthetic project data),2026-01-19,Utility Bill,ATM,0.0,25550.46,18627.79
+IB2025000969,CUST0177,Arjun Reddy,Indian Bank (synthetic project data),2026-01-19,Shopping Payment,IMPS,12285.71,0.0,251881.49
+IB2025000271,CUST0005,Manoj Verma,Indian Bank (synthetic project data),2026-01-19,Shopping Payment,IMPS,0.0,7038.78,76564.2
+IB2025000911,CUST0187,Manoj Verma,Indian Bank (synthetic project data),2026-01-19,Shopping Payment,Internet Banking,0.0,48074.78,57045.5
+IB2025000611,CUST0237,Meera Nair,Indian Bank (synthetic project data),2026-01-19,Cash Deposit,IMPS,4283.58,0.0,300079.4
+IB2025000646,CUST0196,Aditya Bose,Indian Bank (synthetic project data),2026-01-20,Utility Bill,IMPS,0.0,29702.92,111824.3
+IB2025000907,CUST0048,Arjun Reddy,Indian Bank (synthetic project data),2026-01-20,Cash Deposit,Internet Banking,6621.12,0.0,18309.86
+IB2025000251,CUST0147,Sneha Joshi,Indian Bank (synthetic project data),2026-01-21,Mobile Recharge,Internet Banking,5388.59,0.0,16112.66
+IB2025000820,CUST0146,Pooja Shah,Indian Bank (synthetic project data),2026-01-21,Shopping Payment,UPI,24459.1,0.0,290554.12
+IB2025000647,CUST0109,Pooja Shah,Indian Bank (synthetic project data),2026-01-21,Cash Deposit,UPI,13214.53,0.0,251735.13
+IB2025000902,CUST0084,Pooja Shah,Indian Bank (synthetic project data),2026-01-22,Mobile Recharge,Internet Banking,16204.37,0.0,348734.93
+IB2025000894,CUST0193,Kavya Rao,Indian Bank (synthetic project data),2026-01-23,Shopping Payment,NEFT,0.0,42319.2,449068.59
+IB2025000048,CUST0011,Divya Menon,Indian Bank (synthetic project data),2026-01-24,Shopping Payment,UPI,10830.2,0.0,449563.39
+IB2025000137,CUST0066,Manoj Verma,Indian Bank (synthetic project data),2026-01-24,Utility Bill,Internet Banking,11609.58,0.0,5689.32
+IB2025000987,CUST0191,Kavya Rao,Indian Bank (synthetic project data),2026-01-25,Interest Credit,ATM,0.0,48447.58,72994.68
+IB2025000447,CUST0026,Kavya Rao,Indian Bank (synthetic project data),2026-01-25,NEFT Transfer,NEFT,0.0,58451.8,267311.09
+IB2025000453,CUST0029,Aditya Bose,Indian Bank (synthetic project data),2026-01-26,Shopping Payment,UPI,0.0,8928.33,187421.8
+IB2025000412,CUST0175,Rohan Patel,Indian Bank (synthetic project data),2026-01-26,Utility Bill,Internet Banking,0.0,50154.32,219305.54
+IB2025000317,CUST0123,Arjun Reddy,Indian Bank (synthetic project data),2026-01-26,Shopping Payment,NEFT,0.0,33751.6,478552.86
+IB2025000599,CUST0119,Aditya Bose,Indian Bank (synthetic project data),2026-01-27,Cash Deposit,UPI,0.0,17814.45,198995.79
+IB2025000384,CUST0157,Sneha Joshi,Indian Bank (synthetic project data),2026-01-27,Salary Credit,Branch,0.0,51732.4,70478.25
+IB2025000551,CUST0128,Aarav Sharma,Indian Bank (synthetic project data),2026-01-27,Cash Deposit,Internet Banking,0.0,8510.84,25237.23
+IB2025000129,CUST0217,Manoj Verma,Indian Bank (synthetic project data),2026-01-28,ATM Withdrawal,Branch,2644.06,0.0,455310.4
+IB2025000534,CUST0113,Meera Nair,Indian Bank (synthetic project data),2026-01-28,Mobile Recharge,IMPS,14288.24,0.0,389802.98
+IB2025000964,CUST0090,Surya Prakash,Indian Bank (synthetic project data),2026-01-28,UPI Payment,Internet Banking,20947.81,0.0,171287.01
+IB2025000425,CUST0199,Arjun Reddy,Indian Bank (synthetic project data),2026-01-28,Cash Deposit,ATM,0.0,59868.33,76132.62
+IB2025000085,CUST0027,Divya Menon,Indian Bank (synthetic project data),2026-01-29,Mobile Recharge,UPI,0.0,37820.92,398317.38
+IB2025000449,CUST0092,Surya Prakash,Indian Bank (synthetic project data),2026-01-29,UPI Payment,Internet Banking,18491.91,0.0,350579.84
+IB2025000796,CUST0115,Ishita Roy,Indian Bank (synthetic project data),2026-01-29,Shopping Payment,NEFT,0.0,41562.43,166833.72
+IB2025000038,CUST0169,Surya Prakash,Indian Bank (synthetic project data),2026-01-30,Mobile Recharge,Branch,2187.29,0.0,158868.55
+IB2025000479,CUST0235,Rohan Patel,Indian Bank (synthetic project data),2026-01-30,ATM Withdrawal,IMPS,22783.49,0.0,278625.74
+IB2025000492,CUST0122,Surya Prakash,Indian Bank (synthetic project data),2026-01-30,Cash Deposit,NEFT,24018.93,0.0,172780.25
+IB2025000341,CUST0008,Rahul Das,Indian Bank (synthetic project data),2026-01-30,IMPS Transfer,IMPS,19372.84,0.0,114841.06
+IB2025000789,CUST0228,Priya Kumar,Indian Bank (synthetic project data),2026-01-30,ATM Withdrawal,Branch,0.0,20330.74,383323.91
+IB2025000166,CUST0155,Sneha Joshi,Indian Bank (synthetic project data),2026-01-31,ATM Withdrawal,Internet Banking,11424.83,0.0,58092.62
+IB2025000806,CUST0211,Manoj Verma,Indian Bank (synthetic project data),2026-01-31,Salary Credit,NEFT,13943.93,0.0,477985.84
+IB2025000825,CUST0145,Rahul Das,Indian Bank (synthetic project data),2026-01-31,UPI Payment,Internet Banking,0.0,43754.82,237107.11
+IB2025000693,CUST0018,Aditya Bose,Indian Bank (synthetic project data),2026-02-01,Salary Credit,IMPS,0.0,33493.96,148540.66
+IB2025000182,CUST0243,Arjun Reddy,Indian Bank (synthetic project data),2026-02-01,Salary Credit,NEFT,5229.91,0.0,145434.12
+IB2025000496,CUST0156,Divya Menon,Indian Bank (synthetic project data),2026-02-02,Utility Bill,IMPS,0.0,13814.32,447846.0
+IB2025000458,CUST0157,Kavya Rao,Indian Bank (synthetic project data),2026-02-03,Mobile Recharge,UPI,20248.85,0.0,468407.21
+IB2025000954,CUST0131,Rahul Das,Indian Bank (synthetic project data),2026-02-03,Salary Credit,IMPS,0.0,59257.63,54910.3
+IB2025000250,CUST0011,Aarav Sharma,Indian Bank (synthetic project data),2026-02-04,ATM Withdrawal,UPI,23109.65,0.0,474324.88
+IB2025000006,CUST0118,Lakshmi Pillai,Indian Bank (synthetic project data),2026-02-04,ATM Withdrawal,IMPS,1229.74,0.0,40321.3
+IB2025000254,CUST0082,Nithya Krishnan,Indian Bank (synthetic project data),2026-02-05,Interest Credit,ATM,21557.9,0.0,380571.83
+IB2025000294,CUST0234,Pooja Shah,Indian Bank (synthetic project data),2026-02-05,Cash Deposit,Internet Banking,17593.23,0.0,412976.15
+IB2025000991,CUST0205,Priya Kumar,Indian Bank (synthetic project data),2026-02-05,NEFT Transfer,NEFT,18525.33,0.0,276811.22
+IB2025000484,CUST0102,Sanjay Gupta,Indian Bank (synthetic project data),2026-02-06,NEFT Transfer,UPI,0.0,24402.33,373129.16
+IB2025000554,CUST0071,Karthik Raj,Indian Bank (synthetic project data),2026-02-06,Shopping Payment,NEFT,0.0,45861.29,226970.01
+IB2025000822,CUST0190,Rohan Patel,Indian Bank (synthetic project data),2026-02-07,Cash Deposit,Branch,11890.42,0.0,156937.36
+IB2025000535,CUST0215,Vikram Iyer,Indian Bank (synthetic project data),2026-02-08,IMPS Transfer,IMPS,17158.93,0.0,57355.8
+IB2025000744,CUST0157,Kavya Rao,Indian Bank (synthetic project data),2026-02-08,Mobile Recharge,ATM,15199.27,0.0,116225.28
+IB2025000452,CUST0184,Meera Nair,Indian Bank (synthetic project data),2026-02-09,Shopping Payment,UPI,3392.67,0.0,11934.54
+IB2025000977,CUST0240,Surya Prakash,Indian Bank (synthetic project data),2026-02-09,UPI Payment,Branch,0.0,54456.73,101123.37
+IB2025000702,CUST0019,Divya Menon,Indian Bank (synthetic project data),2026-02-10,ATM Withdrawal,ATM,1160.23,0.0,480332.79
+IB2025000873,CUST0012,Ananya Singh,Indian Bank (synthetic project data),2026-02-10,UPI Payment,Branch,0.0,45625.28,88767.92
+IB2025000870,CUST0139,Aditya Bose,Indian Bank (synthetic project data),2026-02-11,NEFT Transfer,IMPS,19064.04,0.0,385395.31
+IB2025000892,CUST0166,Lakshmi Pillai,Indian Bank (synthetic project data),2026-02-11,ATM Withdrawal,Branch,9255.86,0.0,354959.23
+IB2025000859,CUST0034,Aarav Sharma,Indian Bank (synthetic project data),2026-02-11,Salary Credit,Internet Banking,17577.23,0.0,25929.04
+IB2025000328,CUST0234,Pooja Shah,Indian Bank (synthetic project data),2026-02-11,IMPS Transfer,UPI,0.0,56067.27,4299.57
+IB2025000524,CUST0028,Pooja Shah,Indian Bank (synthetic project data),2026-02-11,NEFT Transfer,Branch,2983.21,0.0,100674.94
+IB2025000546,CUST0094,Manoj Verma,Indian Bank (synthetic project data),2026-02-12,ATM Withdrawal,UPI,17958.95,0.0,379900.66
+IB2025000082,CUST0172,Ananya Singh,Indian Bank (synthetic project data),2026-02-13,Mobile Recharge,ATM,3286.59,0.0,233051.96
+IB2025000889,CUST0086,Aditya Bose,Indian Bank (synthetic project data),2026-02-16,UPI Payment,NEFT,22351.85,0.0,213525.22
+IB2025000252,CUST0078,Pooja Shah,Indian Bank (synthetic project data),2026-02-16,NEFT Transfer,Internet Banking,16101.4,0.0,203640.17
+IB2025000327,CUST0003,Arjun Reddy,Indian Bank (synthetic project data),2026-02-17,Cash Deposit,IMPS,17723.16,0.0,187227.15
+IB2025000065,CUST0099,Pooja Shah,Indian Bank (synthetic project data),2026-02-17,Interest Credit,ATM,18000.9,0.0,74638.1
+IB2025000597,CUST0104,Surya Prakash,Indian Bank (synthetic project data),2026-02-18,NEFT Transfer,UPI,14609.98,0.0,276245.41
+IB2025000717,CUST0011,Sanjay Gupta,Indian Bank (synthetic project data),2026-02-18,Cash Deposit,Branch,7723.87,0.0,75640.43
+IB2025000854,CUST0010,Arjun Reddy,Indian Bank (synthetic project data),2026-02-18,UPI Payment,Internet Banking,4858.19,0.0,498195.4
+IB2025000773,CUST0227,Ishita Roy,Indian Bank (synthetic project data),2026-02-18,NEFT Transfer,Internet Banking,20228.31,0.0,145953.54
+IB2025000354,CUST0063,Sanjay Gupta,Indian Bank (synthetic project data),2026-02-19,Interest Credit,NEFT,14460.6,0.0,408430.76
+IB2025000758,CUST0099,Aditya Bose,Indian Bank (synthetic project data),2026-02-19,Mobile Recharge,ATM,13166.86,0.0,189960.64
+IB2025000063,CUST0244,Kavya Rao,Indian Bank (synthetic project data),2026-02-19,Utility Bill,ATM,2470.67,0.0,403474.88
+IB2025000344,CUST0093,Ananya Singh,Indian Bank (synthetic project data),2026-02-19,ATM Withdrawal,UPI,9832.11,0.0,471537.15
+IB2025000009,CUST0091,Arjun Reddy,Indian Bank (synthetic project data),2026-02-20,Utility Bill,Internet Banking,0.0,10177.92,468390.64
+IB2025000705,CUST0180,Sneha Joshi,Indian Bank (synthetic project data),2026-02-21,ATM Withdrawal,ATM,16911.14,0.0,396438.34
+IB2025000677,CUST0180,Ishita Roy,Indian Bank (synthetic project data),2026-02-21,IMPS Transfer,ATM,11401.27,0.0,161001.22
+IB2025000149,CUST0060,Pooja Shah,Indian Bank (synthetic project data),2026-02-21,UPI Payment,Branch,0.0,6946.59,442233.19
+IB2025000430,CUST0146,Priya Kumar,Indian Bank (synthetic project data),2026-02-21,Interest Credit,Internet Banking,0.0,4952.41,482144.92
+IB2025000743,CUST0200,Arjun Reddy,Indian Bank (synthetic project data),2026-02-21,ATM Withdrawal,ATM,0.0,16790.87,93188.5
+IB2025000001,CUST0063,Kavya Rao,Indian Bank (synthetic project data),2026-02-22,Salary Credit,Internet Banking,18577.53,0.0,52145.09
+IB2025000011,CUST0084,Priya Kumar,Indian Bank (synthetic project data),2026-02-22,NEFT Transfer,UPI,0.0,13567.1,402717.85
+IB2025000701,CUST0241,Sneha Joshi,Indian Bank (synthetic project data),2026-02-22,Shopping Payment,Internet Banking,14016.79,0.0,30091.71
+IB2025000186,CUST0006,Sanjay Gupta,Indian Bank (synthetic project data),2026-02-22,Salary Credit,Branch,3012.06,0.0,230588.35
+IB2025000539,CUST0143,Ishita Roy,Indian Bank (synthetic project data),2026-02-23,UPI Payment,UPI,20999.97,0.0,322055.96
+IB2025000699,CUST0135,Ishita Roy,Indian Bank (synthetic project data),2026-02-23,Mobile Recharge,NEFT,0.0,39646.31,25493.73
+IB2025000817,CUST0229,Ishita Roy,Indian Bank (synthetic project data),2026-02-23,Interest Credit,Branch,0.0,51679.09,90718.89
+IB2025000286,CUST0241,Vikram Iyer,Indian Bank (synthetic project data),2026-02-23,Cash Deposit,IMPS,12423.72,0.0,137145.7
+IB2025000245,CUST0133,Nithya Krishnan,Indian Bank (synthetic project data),2026-02-23,Salary Credit,Branch,11725.96,0.0,320257.17
+IB2025000335,CUST0220,Ananya Singh,Indian Bank (synthetic project data),2026-02-25,Cash Deposit,UPI,0.0,34168.47,115653.48
+IB2025000190,CUST0038,Rahul Das,Indian Bank (synthetic project data),2026-02-25,NEFT Transfer,ATM,0.0,14558.0,301597.09
+IB2025000010,CUST0137,Kavya Rao,Indian Bank (synthetic project data),2026-02-26,Salary Credit,IMPS,15929.21,0.0,190348.27
+IB2025000200,CUST0143,Karthik Raj,Indian Bank (synthetic project data),2026-02-26,Utility Bill,NEFT,8342.82,0.0,362143.09
+IB2025001000,CUST0176,Sneha Joshi,Indian Bank (synthetic project data),2026-02-27,Shopping Payment,IMPS,0.0,50894.15,239704.37
+IB2025000320,CUST0132,Pooja Shah,Indian Bank (synthetic project data),2026-02-27,IMPS Transfer,UPI,6649.81,0.0,401605.49
+IB2025000732,CUST0131,Ananya Singh,Indian Bank (synthetic project data),2026-02-27,Shopping Payment,IMPS,24497.85,0.0,433519.6
+IB2025000746,CUST0126,Pooja Shah,Indian Bank (synthetic project data),2026-02-27,Salary Credit,ATM,21325.42,0.0,97436.65
+IB2025000573,CUST0115,Kavya Rao,Indian Bank (synthetic project data),2026-02-27,Mobile Recharge,Branch,16773.12,0.0,122669.75
+IB2025000623,CUST0138,Sneha Joshi,Indian Bank (synthetic project data),2026-02-28,Mobile Recharge,NEFT,6643.38,0.0,306328.46
+IB2025000974,CUST0077,Sneha Joshi,Indian Bank (synthetic project data),2026-02-28,Cash Deposit,NEFT,0.0,30526.05,100838.42
+IB2025000765,CUST0009,Surya Prakash,Indian Bank (synthetic project data),2026-03-01,Mobile Recharge,NEFT,3762.55,0.0,166224.43
+IB2025000043,CUST0142,Divya Menon,Indian Bank (synthetic project data),2026-03-01,ATM Withdrawal,ATM,16746.4,0.0,132968.49
+IB2025000260,CUST0003,Ananya Singh,Indian Bank (synthetic project data),2026-03-01,Interest Credit,ATM,0.0,17502.03,441345.41
+IB2025000167,CUST0185,Arjun Reddy,Indian Bank (synthetic project data),2026-03-02,Interest Credit,IMPS,0.0,46253.28,444157.42
+IB2025000269,CUST0148,Kavya Rao,Indian Bank (synthetic project data),2026-03-02,UPI Payment,Branch,0.0,46681.64,240743.94
+IB2025000483,CUST0010,Meera Nair,Indian Bank (synthetic project data),2026-03-02,Utility Bill,IMPS,15282.71,0.0,72782.48
+IB2025000191,CUST0161,Pooja Shah,Indian Bank (synthetic project data),2026-03-02,IMPS Transfer,Branch,23789.61,0.0,380178.7
+IB2025000201,CUST0039,Sanjay Gupta,Indian Bank (synthetic project data),2026-03-03,ATM Withdrawal,Branch,0.0,36360.7,332142.44
+IB2025000505,CUST0025,Pooja Shah,Indian Bank (synthetic project data),2026-03-03,Salary Credit,Internet Banking,0.0,11277.58,130067.27
+IB2025000631,CUST0050,Priya Kumar,Indian Bank (synthetic project data),2026-03-03,Mobile Recharge,Branch,0.0,31330.12,258391.0
+IB2025000163,CUST0247,Aarav Sharma,Indian Bank (synthetic project data),2026-03-04,UPI Payment,IMPS,11532.36,0.0,423801.97
+IB2025000141,CUST0222,Priya Kumar,Indian Bank (synthetic project data),2026-03-04,Mobile Recharge,Internet Banking,351.23,0.0,248866.92
+IB2025000939,CUST0031,Rahul Das,Indian Bank (synthetic project data),2026-03-04,UPI Payment,UPI,1622.74,0.0,151521.26
+IB2025000626,CUST0201,Meera Nair,Indian Bank (synthetic project data),2026-03-04,ATM Withdrawal,ATM,5859.82,0.0,254663.43
+IB2025000871,CUST0029,Vikram Iyer,Indian Bank (synthetic project data),2026-03-04,IMPS Transfer,IMPS,1468.77,0.0,88985.58
+IB2025000958,CUST0139,Sanjay Gupta,Indian Bank (synthetic project data),2026-03-05,Cash Deposit,Branch,12694.15,0.0,9817.53
+IB2025000106,CUST0142,Rohan Patel,Indian Bank (synthetic project data),2026-03-05,Salary Credit,UPI,6110.65,0.0,204850.27
+IB2025000572,CUST0056,Ishita Roy,Indian Bank (synthetic project data),2026-03-06,Cash Deposit,IMPS,9115.83,0.0,498318.91
+IB2025000454,CUST0078,Sanjay Gupta,Indian Bank (synthetic project data),2026-03-06,Salary Credit,ATM,2660.65,0.0,366443.66
+IB2025000058,CUST0170,Ananya Singh,Indian Bank (synthetic project data),2026-03-07,Utility Bill,Branch,0.0,37577.75,155333.05
+IB2025000800,CUST0084,Manoj Verma,Indian Bank (synthetic project data),2026-03-07,IMPS Transfer,UPI,21540.67,0.0,33617.23
+IB2025000068,CUST0082,Manoj Verma,Indian Bank (synthetic project data),2026-03-08,Mobile Recharge,Internet Banking,14039.29,0.0,446118.13
+IB2025000843,CUST0042,Rohan Patel,Indian Bank (synthetic project data),2026-03-08,Utility Bill,UPI,0.0,19742.55,192016.7
+IB2025000970,CUST0094,Sneha Joshi,Indian Bank (synthetic project data),2026-03-08,NEFT Transfer,IMPS,15428.47,0.0,318086.66
+IB2025000872,CUST0094,Divya Menon,Indian Bank (synthetic project data),2026-03-10,NEFT Transfer,IMPS,0.0,3714.64,126439.51
+IB2025000545,CUST0212,Priya Kumar,Indian Bank (synthetic project data),2026-03-10,NEFT Transfer,IMPS,8620.23,0.0,166654.34
+IB2025000591,CUST0159,Rohan Patel,Indian Bank (synthetic project data),2026-03-10,NEFT Transfer,NEFT,0.0,6452.68,243444.75
+IB2025000581,CUST0185,Ishita Roy,Indian Bank (synthetic project data),2026-03-11,ATM Withdrawal,Internet Banking,296.59,0.0,293218.4
+IB2025000310,CUST0225,Vikram Iyer,Indian Bank (synthetic project data),2026-03-11,Cash Deposit,ATM,0.0,14595.79,207366.54
+IB2025000897,CUST0241,Rohan Patel,Indian Bank (synthetic project data),2026-03-11,NEFT Transfer,IMPS,0.0,48623.35,44567.07
+IB2025000950,CUST0113,Aditya Bose,Indian Bank (synthetic project data),2026-03-12,ATM Withdrawal,UPI,2763.52,0.0,72540.41
+IB2025000795,CUST0023,Sneha Joshi,Indian Bank (synthetic project data),2026-03-12,Interest Credit,ATM,9682.45,0.0,352634.12
+IB2025000113,CUST0244,Aarav Sharma,Indian Bank (synthetic project data),2026-03-12,Utility Bill,Branch,0.0,34724.35,21075.6
+IB2025000419,CUST0131,Aarav Sharma,Indian Bank (synthetic project data),2026-03-12,UPI Payment,UPI,0.0,14090.06,123031.17
+IB2025000401,CUST0003,Ishita Roy,Indian Bank (synthetic project data),2026-03-13,Salary Credit,IMPS,13333.13,0.0,176242.67
+IB2025000838,CUST0141,Aarav Sharma,Indian Bank (synthetic project data),2026-03-13,UPI Payment,UPI,0.0,11205.04,6968.74
+IB2025000367,CUST0190,Kavya Rao,Indian Bank (synthetic project data),2026-03-13,Cash Deposit,ATM,0.0,55830.39,276403.23
+IB2025000209,CUST0157,Divya Menon,Indian Bank (synthetic project data),2026-03-13,IMPS Transfer,ATM,0.0,58190.52,267471.56
+IB2025000585,CUST0222,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-13,UPI Payment,Branch,0.0,57939.24,437508.7
+IB2025000515,CUST0058,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-13,Utility Bill,ATM,18380.04,0.0,52251.4
+IB2025000477,CUST0244,Manoj Verma,Indian Bank (synthetic project data),2026-03-13,Salary Credit,ATM,0.0,9273.14,486110.27
+IB2025000234,CUST0218,Ishita Roy,Indian Bank (synthetic project data),2026-03-14,IMPS Transfer,UPI,923.84,0.0,63988.78
+IB2025000862,CUST0176,Surya Prakash,Indian Bank (synthetic project data),2026-03-14,Cash Deposit,ATM,3151.94,0.0,161473.35
+IB2025000618,CUST0095,Priya Kumar,Indian Bank (synthetic project data),2026-03-14,Cash Deposit,IMPS,0.0,31561.63,115513.64
+IB2025000387,CUST0193,Sneha Joshi,Indian Bank (synthetic project data),2026-03-14,UPI Payment,NEFT,0.0,8567.54,433656.75
+IB2025000016,CUST0098,Ishita Roy,Indian Bank (synthetic project data),2026-03-15,IMPS Transfer,Branch,1728.66,0.0,126455.65
+IB2025000624,CUST0142,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-15,IMPS Transfer,ATM,5211.79,0.0,185736.27
+IB2025000900,CUST0089,Sneha Joshi,Indian Bank (synthetic project data),2026-03-16,IMPS Transfer,Internet Banking,3430.88,0.0,322697.54
+IB2025000564,CUST0004,Rahul Das,Indian Bank (synthetic project data),2026-03-17,NEFT Transfer,Branch,13870.3,0.0,434556.13
+IB2025000324,CUST0126,Pooja Shah,Indian Bank (synthetic project data),2026-03-17,IMPS Transfer,ATM,19119.51,0.0,366653.35
+IB2025000204,CUST0172,Sneha Joshi,Indian Bank (synthetic project data),2026-03-17,Cash Deposit,NEFT,0.0,6060.45,10097.04
+IB2025000155,CUST0166,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-18,UPI Payment,IMPS,22557.15,0.0,138664.84
+IB2025000504,CUST0233,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-18,Cash Deposit,NEFT,19654.69,0.0,422864.2
+IB2025000045,CUST0126,Rahul Das,Indian Bank (synthetic project data),2026-03-18,UPI Payment,UPI,0.0,16207.04,317507.94
+IB2025000107,CUST0060,Divya Menon,Indian Bank (synthetic project data),2026-03-19,Utility Bill,Internet Banking,7387.79,0.0,429943.76
+IB2025000066,CUST0198,Ananya Singh,Indian Bank (synthetic project data),2026-03-19,Interest Credit,ATM,18811.47,0.0,88767.45
+IB2025000771,CUST0181,Divya Menon,Indian Bank (synthetic project data),2026-03-19,Interest Credit,Branch,19736.39,0.0,424051.19
+IB2025000457,CUST0001,Surya Prakash,Indian Bank (synthetic project data),2026-03-19,Interest Credit,Branch,4566.05,0.0,17158.99
+IB2025000711,CUST0131,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-20,Mobile Recharge,Branch,0.0,55187.17,78202.68
+IB2025000821,CUST0135,Rahul Das,Indian Bank (synthetic project data),2026-03-20,IMPS Transfer,Branch,18295.11,0.0,40039.07
+IB2025000187,CUST0217,Ananya Singh,Indian Bank (synthetic project data),2026-03-20,NEFT Transfer,IMPS,0.0,5743.73,294846.77
+IB2025000272,CUST0157,Pooja Shah,Indian Bank (synthetic project data),2026-03-20,UPI Payment,Internet Banking,12620.21,0.0,69903.16
+IB2025000024,CUST0172,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-20,IMPS Transfer,Branch,7896.15,0.0,226291.58
+IB2025000879,CUST0029,Manoj Verma,Indian Bank (synthetic project data),2026-03-21,IMPS Transfer,IMPS,7123.01,0.0,86429.46
+IB2025000906,CUST0042,Kavya Rao,Indian Bank (synthetic project data),2026-03-21,ATM Withdrawal,UPI,0.0,47770.21,496892.75
+IB2025000757,CUST0042,Ananya Singh,Indian Bank (synthetic project data),2026-03-21,ATM Withdrawal,UPI,0.0,42832.45,353407.13
+IB2025000336,CUST0012,Rohan Patel,Indian Bank (synthetic project data),2026-03-21,Utility Bill,Branch,0.0,28792.27,282191.42
+IB2025000456,CUST0092,Kavya Rao,Indian Bank (synthetic project data),2026-03-22,Mobile Recharge,ATM,0.0,37015.68,189813.67
+IB2025000727,CUST0121,Aarav Sharma,Indian Bank (synthetic project data),2026-03-22,Shopping Payment,ATM,0.0,18654.52,370266.48
+IB2025000376,CUST0045,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-22,Salary Credit,IMPS,0.0,55876.35,145128.55
+IB2025000353,CUST0247,Karthik Raj,Indian Bank (synthetic project data),2026-03-22,Shopping Payment,NEFT,7957.45,0.0,367702.31
+IB2025000885,CUST0062,Rohan Patel,Indian Bank (synthetic project data),2026-03-23,Cash Deposit,UPI,0.0,27420.26,346886.76
+IB2025000366,CUST0012,Ananya Singh,Indian Bank (synthetic project data),2026-03-23,UPI Payment,NEFT,1819.28,0.0,324336.99
+IB2025000067,CUST0064,Ananya Singh,Indian Bank (synthetic project data),2026-03-23,IMPS Transfer,ATM,1397.93,0.0,400906.88
+IB2025000899,CUST0053,Aditya Bose,Indian Bank (synthetic project data),2026-03-23,UPI Payment,NEFT,3889.88,0.0,208851.79
+IB2025000486,CUST0059,Vikram Iyer,Indian Bank (synthetic project data),2026-03-23,Utility Bill,Internet Banking,0.0,58363.55,222112.2
+IB2025000692,CUST0140,Nithya Krishnan,Indian Bank (synthetic project data),2026-03-23,Shopping Payment,Internet Banking,14232.54,0.0,234728.97
+IB2025000669,CUST0117,Surya Prakash,Indian Bank (synthetic project data),2026-03-24,Interest Credit,Branch,14832.15,0.0,320253.47
+IB2025000330,CUST0233,Meera Nair,Indian Bank (synthetic project data),2026-03-24,ATM Withdrawal,UPI,0.0,48466.98,262668.32
+IB2025000798,CUST0176,Manoj Verma,Indian Bank (synthetic project data),2026-03-24,IMPS Transfer,ATM,11471.27,0.0,473776.69
+IB2025000721,CUST0144,Arjun Reddy,Indian Bank (synthetic project data),2026-03-24,IMPS Transfer,IMPS,3501.54,0.0,326471.97
+IB2025000582,CUST0129,Ananya Singh,Indian Bank (synthetic project data),2026-03-25,Utility Bill,Internet Banking,0.0,21783.16,151374.0
+IB2025000538,CUST0187,Kavya Rao,Indian Bank (synthetic project data),2026-03-25,IMPS Transfer,NEFT,10906.27,0.0,332191.61
+IB2025000767,CUST0046,Manoj Verma,Indian Bank (synthetic project data),2026-03-25,Mobile Recharge,NEFT,19714.59,0.0,465808.43
+IB2025000578,CUST0112,Rohan Patel,Indian Bank (synthetic project data),2026-03-26,Salary Credit,UPI,0.0,44611.81,230153.39
+IB2025000934,CUST0118,Rohan Patel,Indian Bank (synthetic project data),2026-03-26,ATM Withdrawal,ATM,0.0,7281.02,461781.47
+IB2025000751,CUST0116,Manoj Verma,Indian Bank (synthetic project data),2026-03-27,UPI Payment,ATM,0.0,31478.62,259832.62
+IB2025000319,CUST0142,Sanjay Gupta,Indian Bank (synthetic project data),2026-03-27,Utility Bill,IMPS,22890.89,0.0,233658.98
+IB2025000134,CUST0178,Divya Menon,Indian Bank (synthetic project data),2026-03-27,UPI Payment,UPI,0.0,26898.87,162862.96
+IB2025000604,CUST0071,Rahul Das,Indian Bank (synthetic project data),2026-03-27,Mobile Recharge,Branch,0.0,38197.24,285509.92
+IB2025000634,CUST0073,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-27,Mobile Recharge,NEFT,2390.62,0.0,174390.07
+IB2025000276,CUST0144,Rahul Das,Indian Bank (synthetic project data),2026-03-27,Utility Bill,UPI,12073.12,0.0,287164.93
+IB2025000047,CUST0020,Vikram Iyer,Indian Bank (synthetic project data),2026-03-28,Cash Deposit,UPI,390.29,0.0,417462.91
+IB2025000128,CUST0170,Vikram Iyer,Indian Bank (synthetic project data),2026-03-28,IMPS Transfer,UPI,0.0,23183.25,63996.89
+IB2025000057,CUST0207,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-29,NEFT Transfer,NEFT,13070.02,0.0,216217.4
+IB2025000849,CUST0112,Karthik Raj,Indian Bank (synthetic project data),2026-03-29,ATM Withdrawal,Branch,0.0,29695.43,113697.57
+IB2025000314,CUST0015,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-29,Interest Credit,IMPS,11656.18,0.0,279086.09
+IB2025000559,CUST0216,Lakshmi Pillai,Indian Bank (synthetic project data),2026-03-30,Utility Bill,IMPS,18734.54,0.0,404344.08
+IB2025000094,CUST0024,Divya Menon,Indian Bank (synthetic project data),2026-03-31,NEFT Transfer,IMPS,19854.38,0.0,346201.79
+IB2025000338,CUST0077,Meera Nair,Indian Bank (synthetic project data),2026-03-31,Mobile Recharge,ATM,0.0,55768.06,283781.26
